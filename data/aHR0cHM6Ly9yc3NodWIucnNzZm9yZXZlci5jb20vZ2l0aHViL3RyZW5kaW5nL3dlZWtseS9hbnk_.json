@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "forrestchang/andrej-karpathy-skills",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4f741113bd07c81f7dc1ab499deeece62118d196668128487e167b0c6e5d9cb3/forrestchang/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. <br><br>Language: Unknown <br>Stars: 61912 <br>Forks: 5402",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. \nLanguage: Unknown \nStars: 61912 \nForks: 5402",
+      "creator": "forrestchang",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/664fc068f71729b0ffc1b6870f8a77e8c4b882f26d9326470c72340c5e59199d/NousResearch/hermes-agent\" referrerpolicy=\"no-referrer\"><br>The agent that grows with you <br><br>Language: Python <br>Stars: 102523 <br>Forks: 14620",
+      "contentSnippet": "The agent that grows with you \nLanguage: Python \nStars: 102523 \nForks: 14620",
+      "creator": "NousResearch",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/c84340b5-674d-4f93-ad06-452718614abb\" referrerpolicy=\"no-referrer\"><br>A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. <br><br>Language: TypeScript <br>Stars: 63421 <br>Forks: 5316",
+      "contentSnippet": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. \nLanguage: TypeScript \nStars: 63421 \nForks: 5316",
+      "creator": "thedotmack",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "EvoMap/evolver",
+      "link": "https://github.com/EvoMap/evolver",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2369e9fce27f7decdfdc7ea1f17f5a779bd54dfa8b12e6a7756f2aa4686a2e65/EvoMap/evolver\" referrerpolicy=\"no-referrer\"><br>The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai <br><br>Language: JavaScript <br>Stars: 5606 <br>Forks: 541",
+      "contentSnippet": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai \nLanguage: JavaScript \nStars: 5606 \nForks: 541",
+      "creator": "EvoMap",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "lsdefine/GenericAgent",
+      "link": "https://github.com/lsdefine/GenericAgent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c6db3f835b3857d8e41232279303c95337c8af18af2c3540920676188e8cdf82/lsdefine/GenericAgent\" referrerpolicy=\"no-referrer\"><br>Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption <br><br>Language: Python <br>Stars: 4590 <br>Forks: 487",
+      "contentSnippet": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption \nLanguage: Python \nStars: 4590 \nForks: 487",
+      "creator": "lsdefine",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "shiyu-coder/Kronos",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/55d32f701587cabcebe33b4e3c16255c21fd983fc3645b5d101345f55ad944a4/shiyu-coder/Kronos\" referrerpolicy=\"no-referrer\"><br>Kronos: A Foundation Model for the Language of Financial Markets <br><br>Language: Python <br>Stars: 19635 <br>Forks: 3550",
+      "contentSnippet": "Kronos: A Foundation Model for the Language of Financial Markets \nLanguage: Python \nStars: 19635 \nForks: 3550",
+      "creator": "shiyu-coder",
+      "summary": "Kronos是一个由shiyu-coder开发的金融市场语言基础模型，采用Python编写。该开源项目在GitHub上获得广泛关注，拥有19635个星标和3550个分叉。"
+    },
+    {
+      "title": "multica-ai/multica",
+      "link": "https://github.com/multica-ai/multica",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7e9f5222e228d21ea0158edffd3e431d45a3a69b43d3c2bb8a8ec1321cefb06f/multica-ai/multica\" referrerpolicy=\"no-referrer\"><br>The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. <br><br>Language: TypeScript <br>Stars: 16868 <br>Forks: 2088",
+      "contentSnippet": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. \nLanguage: TypeScript \nStars: 16868 \nForks: 2088",
+      "creator": "multica-ai",
+      "summary": "Multica AI是一个开源托管代理平台，可将编码代理转化为真实队友，支持任务分配、进度跟踪和技能复合。采用TypeScript开发，目前在GitHub上获得16868个Star和2088个Fork。"
+    },
+    {
+      "title": "virattt/ai-hedge-fund",
+      "link": "https://github.com/virattt/ai-hedge-fund",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/08ec7840ed9a5185cf87e61c954f9cb48c3e274fcf72ac644e37968721ddb2e1/virattt/ai-hedge-fund\" referrerpolicy=\"no-referrer\"><br>An AI Hedge Fund Team <br><br>Language: Python <br>Stars: 56376 <br>Forks: 9791",
+      "contentSnippet": "An AI Hedge Fund Team \nLanguage: Python \nStars: 56376 \nForks: 9791",
+      "creator": "virattt",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c5f4e996eb66266f748210e875882f97c68992a034616d8b30e855c6341c6e9f/microsoft/markitdown\" referrerpolicy=\"no-referrer\"><br>Python tool for converting files and office documents to Markdown. <br><br>Language: Python <br>Stars: 112712 <br>Forks: 7298",
+      "contentSnippet": "Python tool for converting files and office documents to Markdown. \nLanguage: Python \nStars: 112712 \nForks: 7298",
+      "creator": "microsoft",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Lordog/dive-into-llms",
+      "link": "https://github.com/Lordog/dive-into-llms",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3e077be322449114d6ef26f8645a152b5274e0d1abf07bc84033c6aa23002e77/Lordog/dive-into-llms\" referrerpolicy=\"no-referrer\"><br>《动手学大模型Dive into LLMs》系列编程实践教程 <br><br>Language: Jupyter Notebook <br>Stars: 32532 <br>Forks: 3960",
+      "contentSnippet": "《动手学大模型Dive into LLMs》系列编程实践教程 \nLanguage: Jupyter Notebook \nStars: 32532 \nForks: 3960",
+      "creator": "Lordog",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "jamiepine/voicebox",
+      "link": "https://github.com/jamiepine/voicebox",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5345385349b87d8a4929b01da726dbe94e77cb740787007f3dc89bbc6d71779b/jamiepine/voicebox\" referrerpolicy=\"no-referrer\"><br>The open-source voice synthesis studio <br><br>Language: TypeScript <br>Stars: 21251 <br>Forks: 2436",
+      "contentSnippet": "The open-source voice synthesis studio \nLanguage: TypeScript \nStars: 21251 \nForks: 2436",
+      "creator": "jamiepine",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenBMB/VoxCPM",
+      "link": "https://github.com/OpenBMB/VoxCPM",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/476534d22e9c067ff9d20af450ce20c283d5d728ed85b7b1a8741b50f2bd4f5e/OpenBMB/VoxCPM\" referrerpolicy=\"no-referrer\"><br>VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning <br><br>Language: Python <br>Stars: 14871 <br>Forks: 1767",
+      "contentSnippet": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning \nLanguage: Python \nStars: 14871 \nForks: 1767",
+      "creator": "OpenBMB",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "SimoneAvogadro/android-reverse-engineering-skill",
+      "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1119d6ba8bee6aa1287395c09159ae0e2f7426beace75303c2be95ea371b8978/SimoneAvogadro/android-reverse-engineering-skill\" referrerpolicy=\"no-referrer\"><br>Claude Code skill to support Android app's reverse engineering <br><br>Language: Shell <br>Stars: 3616 <br>Forks: 371",
+      "contentSnippet": "Claude Code skill to support Android app's reverse engineering \nLanguage: Shell \nStars: 3616 \nForks: 371",
+      "creator": "SimoneAvogadro",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b436e699d6a262f486a9caeb30bfad4c3580ff7214e0b66b7a839f1c2b9c2f46/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents. <br><br>Language: Shell <br>Stars: 17951 <br>Forks: 2247",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents. \nLanguage: Shell \nStars: 17951 \nForks: 2247",
+      "creator": "addyosmani",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "BasedHardware/omi",
+      "link": "https://github.com/BasedHardware/omi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/776121034/abcde48a-a04a-47bc-b146-8998b829fc5e\" referrerpolicy=\"no-referrer\"><br>AI that sees your screen, listens to your conversations and tells you what to do <br><br>Language: Dart <br>Stars: 11235 <br>Forks: 1783",
+      "contentSnippet": "AI that sees your screen, listens to your conversations and tells you what to do \nLanguage: Dart \nStars: 11235 \nForks: 1783",
+      "creator": "BasedHardware",
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-04-20T02:45:16.100Z"
+}

@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Codex for (almost) everything",
+      "link": "https://openai.com/index/codex-for-almost-everything",
+      "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-16T10:00:00.000Z",
+      "content": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "contentSnippet": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "creator": "",
+      "summary": "Codex应用发布更新，新增电脑操作"
+    },
+    {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "link": "https://openai.com/index/introducing-gpt-rosalind",
+      "pubDate": "Thu, 16 Apr 2026 01:00:00 GMT",
+      "isoDate": "2026-04-16T01:00:00.000Z",
+      "content": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "contentSnippet": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "creator": "",
+      "summary": "OpenAI推出GPT-Rosalind，这是一个专为生命科学研究设计的前沿"
+    },
+    {
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-16T00:00:00.000Z",
+      "content": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+      "contentSnippet": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "pubDate": "Wed, 15 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-15T10:00:00.000Z",
+      "content": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "contentSnippet": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Trusted access for the next era of cyber defense",
+      "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "pubDate": "Tue, 14 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-14T00:00:00.000Z",
+      "content": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+      "contentSnippet": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "pubDate": "Mon, 13 Apr 2026 06:00:00 GMT",
+      "isoDate": "2026-04-13T06:00:00.000Z",
+      "content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "contentSnippet": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Creating images with ChatGPT",
+      "link": "https://openai.com/academy/image-generation",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+      "contentSnippet": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+      "creator": "",
+      "summary": "本文介绍如何使用ChatGPT创建图像。通过清晰的提示词进行设计迭代，可在几分钟内生成高质量的视觉效果。"
+    },
+    {
+      "title": "ChatGPT for research",
+      "link": "https://openai.com/academy/research",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "contentSnippet": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "creator": "",
+      "summary": "本文介绍如何将ChatGPT用于研究，包括收集资料、分析信息以及创建附有引用的结构化见解，并提及需限制内容长度以避免超出token限制。"
+    },
+    {
+      "title": "Healthcare",
+      "link": "https://openai.com/academy/healthcare",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "contentSnippet": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "creator": "",
+      "summary": "本文探讨临床医生如何运用ChatGPT等安全且符合HIPAA标准的AI工具，辅助医疗诊断、病历文档记录及患者护理工作。"
+    },
+    {
+      "title": "Our response to the Axios developer tool compromise",
+      "link": "https://openai.com/index/axios-developer-tool-compromise",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "contentSnippet": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Using projects in ChatGPT",
+      "link": "https://openai.com/academy/projects",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to use projects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "contentSnippet": "Learn how to use projects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Analyzing data with ChatGPT",
+      "link": "https://openai.com/academy/data-analysis",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "contentSnippet": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AI fundamentals",
+      "link": "https://openai.com/academy/what-is-ai",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+      "contentSnippet": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+      "creator": "",
+      "summary": "本文是一份面向初学者的AI基础知识指南，介绍了人工智能的定义、工作原理，以及ChatGPT等工具如何运用大语言模型。内容简明扼要，旨在帮助读者快速理解AI核心概念，同时提及了为控制token数量而限制内容长度的做法。"
+    },
+    {
+      "title": "ChatGPT for operations teams",
+      "link": "https://openai.com/academy/operations",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "contentSnippet": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Brainstorming with ChatGPT",
+      "link": "https://openai.com/academy/brainstorming",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "contentSnippet": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "creator": "",
+      "summary": "本文介绍如何使用ChatGPT进行头脑风暴，帮助组织思维并将初步概念转化为结构化、可执行的计划。同时提醒注意限制内容长度，以避免超出token限制。"
+    },
+    {
+      "title": "Writing with ChatGPT",
+      "link": "https://openai.com/academy/writing",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+      "contentSnippet": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+      "creator": "",
+      "summary": "本文介绍了如何使用ChatGPT进行写作，包括起草、修改和完善内容，以实现清晰的结构、语气和意图。同时提醒用户注意限制内容长度，以避免超出token限制。"
+    },
+    {
+      "title": "Responsible and safe use of AI ",
+      "link": "https://openai.com/academy/responsible-and-safe-use",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "contentSnippet": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Getting started with ChatGPT",
+      "link": "https://openai.com/academy/getting-started",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "contentSnippet": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Research with ChatGPT",
+      "link": "https://openai.com/academy/search-and-deep-research",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "contentSnippet": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ChatGPT for customer success teams",
+      "link": "https://openai.com/academy/customer-success",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+      "contentSnippet": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Prompting fundamentals",
+      "link": "https://openai.com/academy/prompting",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+      "contentSnippet": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ChatGPT for managers",
+      "link": "https://openai.com/academy/managers",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+      "contentSnippet": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Financial services",
+      "link": "https://openai.com/academy/financial-services",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "contentSnippet": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "creator": "",
+      "summary": "本文介绍面向金融服务的AI资源，包括提示包、GPT模型、指南和工具，旨在帮助机构安全地部署和扩展AI应用。"
+    },
+    {
+      "title": "Applications of AI at OpenAI",
+      "link": "https://openai.com/academy/applications-of-ai",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "contentSnippet": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "creator": "",
+      "summary": "OpenAI通过ChatGPT、Codex及其API等产品，将人工智能技术应用于实际工作、软件开发和日常任务中，推动AI技术在现实场景中的落地使用。"
+    },
+    {
+      "title": "ChatGPT for marketing teams",
+      "link": "https://openai.com/academy/marketing",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "contentSnippet": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "creator": "",
+      "summary": "文章阐述营销团队运用ChatGPT进行活动策划、内容创作和效果分析，以加快从想法到执行的进程，并提醒需控制内容长度防止超出"
+    },
+    {
+      "title": "ChatGPT for sales teams",
+      "link": "https://openai.com/academy/sales",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+      "contentSnippet": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+      "creator": "",
+      "summary": "本文介绍了销售团队如何运用ChatGPT技术来研究客户账户、个性化推广内容、管理交易流程，从而提升销售管道效率和转化率。"
+    },
+    {
+      "title": "ChatGPT for finance teams",
+      "link": "https://openai.com/academy/finance",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "contentSnippet": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "creator": "",
+      "summary": "本文介绍财务团队如何运用ChatGPT提升工作效率，包括简化报告流程、分析数据、改进预测模型以及更清晰地传达业务洞察。"
+    },
+    {
+      "title": "Working with files in ChatGPT",
+      "link": "https://openai.com/academy/working-with-files",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+      "contentSnippet": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+      "creator": "",
+      "summary": "在ChatGPT中处理文件：介绍如何上传文件以分析数据、总结文档，并从PDF、电子表格等格式生成内容。同时提醒用户需限制内容长度，避免超出token限制。"
+    },
+    {
+      "title": "Using custom GPTs",
+      "link": "https://openai.com/academy/custom-gpts",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "contentSnippet": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Personalizing ChatGPT",
+      "link": "https://openai.com/academy/personalization",
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-10T00:00:00.000Z",
+      "content": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+      "contentSnippet": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-04-20T02:36:28.008Z"
+}

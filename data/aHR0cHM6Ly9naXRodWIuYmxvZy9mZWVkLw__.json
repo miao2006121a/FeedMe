@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "Building an emoji list generator with the GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+      "pubDate": "Fri, 17 Apr 2026 18:00:00 +0000",
+      "isoDate": "2026-04-17T18:00:00.000Z",
+      "content": "<p>See how we created an emoji list generator during the Rubber Duck Thursday stream.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/\">Building an emoji list generator with the GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "See how we created an emoji list generator during the Rubber Duck Thursday stream.\nThe post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "creator": "Cassidy Williams",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Bringing more transparency to GitHub’s status page",
+      "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+      "pubDate": "Fri, 17 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-17T16:00:00.000Z",
+      "content": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub’s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.\nThe post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog.",
+      "creator": "Jakub Oleksy",
+      "summary": "GitHub将更新其状态页面，通过提供更详细的数据来增强平台运行状况的透明度，帮助用户更清晰地了解系统整体状态。"
+    },
+    {
+      "title": "How GitHub uses eBPF to improve deployment safety",
+      "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+      "pubDate": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-16T16:00:00.000Z",
+      "content": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. \nThe post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog.",
+      "creator": "Lawrence Gripper",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Build a personal organization command center with GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
+      "pubDate": "Wed, 15 Apr 2026 17:00:00 +0000",
+      "isoDate": "2026-04-15T17:00:00.000Z",
+      "content": "<p>Learn about the productivity tool one GitHub engineer built, and how AI supported the development process.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/\">Build a personal organization command center with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process.\nThe post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "creator": "Cassidy Williams",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Developer policy update: Intermediary liability, copyright, and transparency",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
+      "pubDate": "Wed, 15 Apr 2026 15:00:00 +0000",
+      "isoDate": "2026-04-15T15:00:00.000Z",
+      "content": "<p>We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/\">Developer policy update: Intermediary liability, copyright, and transparency</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead.\nThe post Developer policy update: Intermediary liability, copyright, and transparency appeared first on The GitHub Blog.",
+      "creator": "Margaret Tucker",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+      "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
+      "pubDate": "Tue, 14 Apr 2026 18:17:59 +0000",
+      "isoDate": "2026-04-14T18:17:59.000Z",
+      "content": "<p>Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills.</p>\n<p>The post <a href=\"https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/\">Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills.\nThe post Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game appeared first on The GitHub Blog.",
+      "creator": "Joseph Katsioloudes",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How exposed is your code? Find out in minutes—for free",
+      "link": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
+      "pubDate": "Tue, 14 Apr 2026 15:00:00 +0000",
+      "isoDate": "2026-04-14T15:00:00.000Z",
+      "content": "<p>The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/\">How exposed is your code? Find out in minutes—for free</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost.\nThe post How exposed is your code? Find out in minutes—for free appeared first on The GitHub Blog.",
+      "creator": "Dorothy Pearce",
+      "summary": "GitHub推出免费的\"代码安全风险评估\"功能，可一键查看组织内的漏洞情况。该功能通过GitHub博客发布，帮助用户快速了解代码安全暴露程度。"
+    },
+    {
+      "title": "GitHub for Beginners: Getting started with GitHub Pages",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
+      "pubDate": "Mon, 13 Apr 2026 15:00:00 +0000",
+      "isoDate": "2026-04-13T15:00:00.000Z",
+      "content": "<p>Learn how to create a free website for any repository on GitHub Pages.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/\">GitHub for Beginners: Getting started with GitHub Pages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to create a free website for any repository on GitHub Pages.\nThe post GitHub for Beginners: Getting started with GitHub Pages appeared first on The GitHub Blog.",
+      "creator": "Kedasha Kerr",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
+      "pubDate": "Fri, 10 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-10T16:00:00.000Z",
+      "content": "<p>GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/\">GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial.\nThe post GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "creator": "Christopher Harrison",
+      "summary": "本文是一篇面向初学者的GitHub Copilot CLI入门教程，提供逐步操作指南。文章首发于GitHub博客。"
+    },
+    {
+      "title": "GitHub availability report: March 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
+      "pubDate": "Thu, 09 Apr 2026 02:21:17 +0000",
+      "isoDate": "2026-04-09T02:21:17.000Z",
+      "content": "<p>In March, we experienced four incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-march-2026/\">GitHub availability report: March 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In March, we experienced four incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: March 2026 appeared first on The GitHub Blog.",
+      "creator": "Jakub Oleksy",
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-04-20T02:41:50.941Z"
+}

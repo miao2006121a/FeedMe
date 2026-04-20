@@ -1,0 +1,497 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "The Keyword",
+  "description": "The Keyword",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "pubDate": "Fri, 17 Apr 2026 14:00:00 +0000",
+      "isoDate": "2026-04-17T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp\">The latest tools from Google can help you plan trips, find a great deal and explore your next destination.",
+      "contentSnippet": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          ""
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Discover this year’s trending summer travel destinations and activities",
+      "link": "https://blog.google/products-and-platforms/products/travel/2026-travel-trends/",
+      "pubDate": "Fri, 17 Apr 2026 14:00:00 +0000",
+      "isoDate": "2026-04-17T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/summer_trends_2026_hero.max-600x600.format-webp.webp\">Google Flights and Search trends told us what’s on everyone’s mind this year as it relates to summer travel.",
+      "contentSnippet": "Google Flights and Search trends told us what’s on everyone’s mind this year as it relates to summer travel.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jenny Lee"
+        ],
+        "title": [
+          "Lead Data Analyst"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "根据Google Flights及搜索趋势数据，本文分析了今年夏季旅游的热门目的地与活动趋势。"
+    },
+    {
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "pubDate": "Thu, 16 Apr 2026 17:00:00 +0000",
+      "isoDate": "2026-04-16T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Mode_in_Chrome_-_Blog_header.png\">Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
+      "contentSnippet": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Robby Stein"
+        ],
+        "title": [
+          "VP of Product, Google Search"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Voting is live: Help choose the next Doodle for Google winner",
+      "link": "https://blog.google/company-news/inside-google/doodles/2026-voting/",
+      "pubDate": "Thu, 16 Apr 2026 16:30:00 +0000",
+      "isoDate": "2026-04-16T16:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/D4G_Top5_Keyword_0415.max-600x600.format-webp.webp\">It’s time to choose the next Doodle for Google winner — and every vote counts. Meet the five student finalists and make your pick.",
+      "contentSnippet": "It’s time to choose the next Doodle for Google winner — and every vote counts. Meet the five student finalists and make your pick.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Selly Sallah"
+        ],
+        "title": [
+          "Product Marketing Manager"
+        ],
+        "department": [
+          "Brand Studio"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Google正式开启投票，邀请公众从五位学生设计的决赛作品中选出下一届Google涂鸦大赛获胜者，每个投票都将影响最终结果。"
+    },
+    {
+      "title": "Nest thermostats have saved users an estimated $14 billion and 200 billion kWh of energy since 2011.",
+      "link": "https://blog.google/products-and-platforms/devices/google-nest/google-nest-thermostat-energy-savings-milestone/",
+      "pubDate": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-16T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/warm_gold_1920x1080px.png\">Google Nest thermostats saved 200 billion kWh of energy since 2011. With energy-saving features, Nest helps get the most out of your home.",
+      "contentSnippet": "Google Nest thermostats saved 200 billion kWh of energy since 2011. With energy-saving features, Nest helps get the most out of your home.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Karina Chiqui"
+        ],
+        "title": [
+          "Contributor, The Keyword"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New ways to create personalized images in the Gemini app",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "pubDate": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-16T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_header.max-600x600.format-webp.webp\">Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
+      "contentSnippet": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Animish Sivaramakrishnan"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Grow with Google's event discussed AI in the workplace with Fortune 500 company leaders.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-transformation-summit/",
+      "pubDate": "Thu, 16 Apr 2026 15:00:00 +0000",
+      "isoDate": "2026-04-16T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A0964_social.max-600x600.format-webp.webp\">Our Leading the AI Transformation summit equipped execs to drive AI adoption, emphasizing how people use AI to unlock potential.",
+      "contentSnippet": "Our Leading the AI Transformation summit equipped execs to drive AI adoption, emphasizing how people use AI to unlock potential.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini is stopping harmful ads before people ever see them",
+      "link": "https://blog.google/products/ads-commerce/2025-ads-safety-report/",
+      "pubDate": "Thu, 16 Apr 2026 15:00:00 +0000",
+      "isoDate": "2026-04-16T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAdsreport2026_asset.max-600x600.format-webp.webp\">Gemini-powered tools vastly improved our ability to stop deceptive ads, and we’re continuing to evolve to stay ahead of bad actors.",
+      "contentSnippet": "Gemini-powered tools vastly improved our ability to stop deceptive ads, and we’re continuing to evolve to stay ahead of bad actors.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Keerat Sharma"
+        ],
+        "title": [
+          "VP & General Manager"
+        ],
+        "department": [
+          "Ads Privacy and Safety"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Gemini驱动的工具大幅提升了阻止欺骗性广告的能力，通过持续进化应对不良行为者，在用户看到有害广告前就将其拦截。"
+    },
+    {
+      "title": "New ways we’re protecting businesses on Maps",
+      "link": "https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps/",
+      "pubDate": "Thu, 16 Apr 2026 13:00:00 +0000",
+      "isoDate": "2026-04-16T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Protecting_businesses_on_Maps_h.max-600x600.format-webp.webp\">The latest protections help detect fake reviews faster and block suspicious edits before they appear.",
+      "contentSnippet": "The latest protections help detect fake reviews faster and block suspicious edits before they appear.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Bibek Samantaray"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "User Generated Content"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Partnering with Latin American governments on 3 new AI initiatives",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/new-ai-initiatives-latin-america/",
+      "pubDate": "Wed, 15 Apr 2026 20:30:00 +0000",
+      "isoDate": "2026-04-15T20:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_Latin_American_.max-600x600.format-webp.webp\">In partnership with the Inter-American Development Bank, Google is releasing a new AI report, announcing $5 million Google.org funding and launching a new AI training ac…",
+      "contentSnippet": "In partnership with the Inter-American Development Bank, Google is releasing a new AI report, announcing $5 million Google.org funding and launching a new AI training ac…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Karan Bhatia"
+        ],
+        "title": [
+          "Vice President, Government Affairs and Public Policy"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Gemini app is now on Mac",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+      "pubDate": "Wed, 15 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-15T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_MacOS_01_Hero_16x9.max-600x600.format-webp.webp\">Google is bringing the Gemini app to macOS as a native desktop experience.",
+      "contentSnippet": "Google is bringing the Gemini app to macOS as a native desktop experience.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michael Friedman"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "pubDate": "Wed, 15 Apr 2026 15:00:00 +0000",
+      "isoDate": "2026-04-15T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_blog_keywo.max-600x600.format-webp.webp\">Gemini 3.1 Flash TTS is now available across Google products.",
+      "contentSnippet": "Gemini 3.1 Flash TTS is now available across Google products.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Vilobh Meshram"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌已在其产品中推出Gemini 3.1 Flash TTS，这是一款新一代富有表现力的AI语音模型。"
+    },
+    {
+      "title": "Prepay for the Gemini API to get more control over your spend",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/prepay-gemini-api/",
+      "pubDate": "Wed, 15 Apr 2026 14:00:00 +0000",
+      "isoDate": "2026-04-15T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/API_Hero_409.max-600x600.format-webp.webp\">Prepay billing is now available in Google AI Studio for the Gemini API.",
+      "contentSnippet": "Prepay billing is now available in Google AI Studio for the Gemini API.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Nabila Babar"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re upgrading Dynamic Search Ads to AI Max",
+      "link": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+      "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000",
+      "isoDate": "2026-04-15T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Max_DSA___Hero_.max-600x600.format-webp.webp\">AI Max is moving out of beta, with improved performance quality across targeting and creative capabilities along with more enhanced controls.",
+      "contentSnippet": "AI Max is moving out of beta, with improved performance quality across targeting and creative capabilities along with more enhanced controls.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Brandon Ervin"
+        ],
+        "title": [
+          "Director of Product Management, Google Ads"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "pubDate": "Tue, 14 Apr 2026 17:00:00 +0000",
+      "isoDate": "2026-04-14T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordH.max-600x600.format-webp.webp\">Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
+      "contentSnippet": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Hafsah Ismail"
+        ],
+        "title": [
+          "Product Manager, Chrome"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Google app for desktop is now available for Windows users around the world.",
+      "link": "https://blog.google/products-and-platforms/products/search/google-apps-windows-english/",
+      "pubDate": "Tue, 14 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-14T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DGA-thumbnail-1920x1080.max-600x600.format-webp.webp\">Google app for desktop is now available for Windows users around the world in English",
+      "contentSnippet": "Google app for desktop is now available for Windows users around the world in English",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Vinay Mahagaokar"
+        ],
+        "title": [
+          "Group Product Manager, Search"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/",
+      "pubDate": "Tue, 14 Apr 2026 15:00:00 +0000",
+      "isoDate": "2026-04-14T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-1.6__page-cover.max-600x600.format-webp.webp\">An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.",
+      "contentSnippet": "An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.",
+      "creator": "",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Answering your trending questions on World Quantum Day",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/world-quantum-day-2026/",
+      "pubDate": "Tue, 14 Apr 2026 14:21:00 +0000",
+      "isoDate": "2026-04-14T14:21:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WorldQuantumDay2026_social.max-600x600.format-webp.webp\">Google celebrated World Quantum Day 2026 with a Doodle and a video about quantum computing.",
+      "contentSnippet": "Google celebrated World Quantum Day 2026 with a Doodle and a video about quantum computing.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "The Google Quantum AI Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re advancing wetland restoration and carbon removal science in Google’s backyard.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/wetland-restoration-carbon-removal/",
+      "pubDate": "Tue, 14 Apr 2026 13:00:00 +0000",
+      "isoDate": "2026-04-14T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Restoration_SocialShare.max-600x600.format-webp.webp\">Today we’re announcing a wetland restoration and research project to restore a degraded salt pond and advance the science of carbon removal — right in Google’s backyard.…",
+      "contentSnippet": "Today we’re announcing a wetland restoration and research project to restore a degraded salt pond and advance the science of carbon removal — right in Google’s backyard.…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Randy Spock"
+        ],
+        "title": [
+          "Carbon Removals Program Lead"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Bringing people together at AI for the Economy Forum",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+      "pubDate": "Tue, 14 Apr 2026 09:00:00 +0000",
+      "isoDate": "2026-04-14T09:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_the_Economy_Forum_2026.max-600x600.format-webp.webp\">Google is bringing people together in Washington D.C. at our AI for the Economy Forum.",
+      "contentSnippet": "Google is bringing people together in Washington D.C. at our AI for the Economy Forum.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "James Manyika"
+        ],
+        "title": [
+          "SVP"
+        ],
+        "department": [
+          "Research, Labs, Technology & Society"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-04-20T02:39:24.050Z"
+}
