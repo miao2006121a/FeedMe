@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Trademark violation: Fake Notepad++ for Mac",
+      "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "pubDate": "Mon, 04 May 2026 09:40:06 +0000",
+      "isoDate": "2026-05-04T09:40:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://notepad-plus-plus.org/news/npp-trademark-infringement/\">https://notepad-plus-plus.org/news/npp-trademark-infringement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48006445\">https://news.ycombinator.com/item?id=48006445</a></p>\n<p>Points: 304</p>\n<p># Comments: 119</p>\n",
+      "contentSnippet": "Article URL: https://notepad-plus-plus.org/news/npp-trademark-infringement/\nComments URL: https://news.ycombinator.com/item?id=48006445\nPoints: 304\n# Comments: 119",
+      "creator": "maxloh",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "pubDate": "Mon, 04 May 2026 09:31:12 +0000",
+      "isoDate": "2026-05-04T09:31:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cn0p8yled1do\">https://www.bbc.co.uk/news/articles/cn0p8yled1do</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48006402\">https://news.ycombinator.com/item?id=48006402</a></p>\n<p>Points: 273</p>\n<p># Comments: 219</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.co.uk/news/articles/cn0p8yled1do\nComments URL: https://news.ycombinator.com/item?id=48006402\nPoints: 273\n# Comments: 219",
+      "creator": "n1b0m",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "link": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+      "pubDate": "Sun, 03 May 2026 23:59:02 +0000",
+      "isoDate": "2026-05-03T23:59:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility\">https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48002938\">https://news.ycombinator.com/item?id=48002938</a></p>\n<p>Points: 250</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility\nComments URL: https://news.ycombinator.com/item?id=48002938\nPoints: 250\n# Comments: 107",
+      "creator": "SpyCoder77",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Let's Buy Spirit Air",
+      "link": "https://letsbuyspiritair.com/",
+      "pubDate": "Sun, 03 May 2026 23:36:11 +0000",
+      "isoDate": "2026-05-03T23:36:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://letsbuyspiritair.com/\">https://letsbuyspiritair.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48002777\">https://news.ycombinator.com/item?id=48002777</a></p>\n<p>Points: 421</p>\n<p># Comments: 389</p>\n",
+      "contentSnippet": "Article URL: https://letsbuyspiritair.com/\nComments URL: https://news.ycombinator.com/item?id=48002777\nPoints: 421\n# Comments: 389",
+      "creator": "bjhess",
+      "summary": "由于提供的文章内容仅为链接和讨论数据（URL、评论链接、积分、评论数），未包含具体的文章内容或有效信息，因此无法生成符合要求的摘要。"
+    },
+    {
+      "title": "Agentic Coding Is a Trap",
+      "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "pubDate": "Sun, 03 May 2026 22:52:07 +0000",
+      "isoDate": "2026-05-03T22:52:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://larsfaye.com/articles/agentic-coding-is-a-trap\">https://larsfaye.com/articles/agentic-coding-is-a-trap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48002442\">https://news.ycombinator.com/item?id=48002442</a></p>\n<p>Points: 393</p>\n<p># Comments: 292</p>\n",
+      "contentSnippet": "Article URL: https://larsfaye.com/articles/agentic-coding-is-a-trap\nComments URL: https://news.ycombinator.com/item?id=48002442\nPoints: 393\n# Comments: 292",
+      "creator": "ayoisaiah",
+      "summary": "《代理式编码是一个陷阱》是一篇热门技术文章（393分，292条评论），但原文内容无法获取。"
+    },
+    {
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+      "link": "https://github.com/aattaran/deepclaude",
+      "pubDate": "Sun, 03 May 2026 22:13:20 +0000",
+      "isoDate": "2026-05-03T22:13:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/aattaran/deepclaude\">https://github.com/aattaran/deepclaude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48002136\">https://news.ycombinator.com/item?id=48002136</a></p>\n<p>Points: 537</p>\n<p># Comments: 221</p>\n",
+      "contentSnippet": "Article URL: https://github.com/aattaran/deepclaude\nComments URL: https://news.ycombinator.com/item?id=48002136\nPoints: 537\n# Comments: 221",
+      "creator": "alattaran",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+      "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+      "pubDate": "Sun, 03 May 2026 18:54:28 +0000",
+      "isoDate": "2026-05-03T18:54:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/\">https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48000152\">https://news.ycombinator.com/item?id=48000152</a></p>\n<p>Points: 451</p>\n<p># Comments: 428</p>\n",
+      "contentSnippet": "Article URL: https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/\nComments URL: https://news.ycombinator.com/item?id=48000152\nPoints: 451\n# Comments: 428",
+      "creator": "dryadin",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Why TUIs are back",
+      "link": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
+      "pubDate": "Sun, 03 May 2026 18:42:28 +0000",
+      "isoDate": "2026-05-03T18:42:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/\">https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48000028\">https://news.ycombinator.com/item?id=48000028</a></p>\n<p>Points: 375</p>\n<p># Comments: 367</p>\n",
+      "contentSnippet": "Article URL: https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/\nComments URL: https://news.ycombinator.com/item?id=48000028\nPoints: 375\n# Comments: 367",
+      "creator": "rickcarlino",
+      "summary": "由于提供的文章内容仅为链接和统计信息，未包含实际文本内容，无法提取有效信息生成摘要。根据要求，现仅对非中文标题进行翻译：\n\n**标题翻译**：为什么文本用户界面又回来了"
+    },
+    {
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "link": "https://partyon.xyz/@nullagent/116499715071759135",
+      "pubDate": "Sun, 03 May 2026 18:03:14 +0000",
+      "isoDate": "2026-05-03T18:03:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://partyon.xyz/@nullagent/116499715071759135\">https://partyon.xyz/@nullagent/116499715071759135</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47999636\">https://news.ycombinator.com/item?id=47999636</a></p>\n<p>Points: 409</p>\n<p># Comments: 132</p>\n",
+      "contentSnippet": "Article URL: https://partyon.xyz/@nullagent/116499715071759135\nComments URL: https://news.ycombinator.com/item?id=47999636\nPoints: 409\n# Comments: 132",
+      "creator": "nullagent",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Southwest Headquarters Tour",
+      "link": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "pubDate": "Sun, 03 May 2026 17:02:13 +0000",
+      "isoDate": "2026-05-03T17:02:13.000Z",
+      "content": "\n<p>After years of flying Southwest, I recently had the opportunity to tour the headquarters in Dallas. I particularly enjoyed seeing the full-motion 737 simulators, Network Operations Center, and TechOps maintenance hangar up close.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47998946\">https://news.ycombinator.com/item?id=47998946</a></p>\n<p>Points: 279</p>\n<p># Comments: 83</p>\n",
+      "contentSnippet": "After years of flying Southwest, I recently had the opportunity to tour the headquarters in Dallas. I particularly enjoyed seeing the full-motion 737 simulators, Network Operations Center, and TechOps maintenance hangar up close.\nComments URL: https://news.ycombinator.com/item?id=47998946\nPoints: 279\n# Comments: 83",
+      "creator": "KatiMichel",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
+      "link": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
+      "pubDate": "Sun, 03 May 2026 16:48:11 +0000",
+      "isoDate": "2026-05-03T16:48:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/\">https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47998790\">https://news.ycombinator.com/item?id=47998790</a></p>\n<p>Points: 285</p>\n<p># Comments: 131</p>\n",
+      "contentSnippet": "Article URL: https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/\nComments URL: https://news.ycombinator.com/item?id=47998790\nPoints: 285\n# Comments: 131",
+      "creator": "rishabhd",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A desktop made for one",
+      "link": "https://isene.org/2026/05/Audience-of-One.html",
+      "pubDate": "Sun, 03 May 2026 15:32:05 +0000",
+      "isoDate": "2026-05-03T15:32:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://isene.org/2026/05/Audience-of-One.html\">https://isene.org/2026/05/Audience-of-One.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47997947\">https://news.ycombinator.com/item?id=47997947</a></p>\n<p>Points: 381</p>\n<p># Comments: 214</p>\n",
+      "contentSnippet": "Article URL: https://isene.org/2026/05/Audience-of-One.html\nComments URL: https://news.ycombinator.com/item?id=47997947\nPoints: 381\n# Comments: 214",
+      "creator": "xngbuilds",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "link": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "pubDate": "Sun, 03 May 2026 14:43:27 +0000",
+      "isoDate": "2026-05-03T14:43:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/\">https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47997418\">https://news.ycombinator.com/item?id=47997418</a></p>\n<p>Points: 758</p>\n<p># Comments: 432</p>\n",
+      "contentSnippet": "Article URL: https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/\nComments URL: https://news.ycombinator.com/item?id=47997418\nPoints: 758\n# Comments: 432",
+      "creator": "teleforce",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "link": "https://acai.sh/blog/specsmaxxing",
+      "pubDate": "Sun, 03 May 2026 06:33:38 +0000",
+      "isoDate": "2026-05-03T06:33:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://acai.sh/blog/specsmaxxing\">https://acai.sh/blog/specsmaxxing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47994012\">https://news.ycombinator.com/item?id=47994012</a></p>\n<p>Points: 270</p>\n<p># Comments: 286</p>\n",
+      "contentSnippet": "Article URL: https://acai.sh/blog/specsmaxxing\nComments URL: https://news.ycombinator.com/item?id=47994012\nPoints: 270\n# Comments: 286",
+      "creator": "brendanmc6",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "pubDate": "Sun, 03 May 2026 04:05:28 +0000",
+      "isoDate": "2026-05-03T04:05:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/\">https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47993235\">https://news.ycombinator.com/item?id=47993235</a></p>\n<p>Points: 365</p>\n<p># Comments: 217</p>\n",
+      "contentSnippet": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/\nComments URL: https://news.ycombinator.com/item?id=47993235\nPoints: 365\n# Comments: 217",
+      "creator": "bazlightyear",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "pubDate": "Sun, 03 May 2026 00:30:50 +0000",
+      "isoDate": "2026-05-03T00:30:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses\">https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47991981\">https://news.ycombinator.com/item?id=47991981</a></p>\n<p>Points: 431</p>\n<p># Comments: 382</p>\n",
+      "contentSnippet": "Article URL: https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses\nComments URL: https://news.ycombinator.com/item?id=47991981\nPoints: 431\n# Comments: 382",
+      "creator": "donsupreme",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A couple million lines of Haskell: Production engineering at Mercury",
+      "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "pubDate": "Sun, 03 May 2026 00:01:14 +0000",
+      "isoDate": "2026-05-03T00:01:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.haskell.org/a-couple-million-lines-of-haskell/\">https://blog.haskell.org/a-couple-million-lines-of-haskell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47991802\">https://news.ycombinator.com/item?id=47991802</a></p>\n<p>Points: 418</p>\n<p># Comments: 215</p>\n",
+      "contentSnippet": "Article URL: https://blog.haskell.org/a-couple-million-lines-of-haskell/\nComments URL: https://news.ycombinator.com/item?id=47991802\nPoints: 418\n# Comments: 215",
+      "creator": "unignorant",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
+      "link": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+      "pubDate": "Sat, 02 May 2026 22:45:23 +0000",
+      "isoDate": "2026-05-02T22:45:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/\">https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47991350\">https://news.ycombinator.com/item?id=47991350</a></p>\n<p>Points: 278</p>\n<p># Comments: 139</p>\n",
+      "contentSnippet": "Article URL: https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/\nComments URL: https://news.ycombinator.com/item?id=47991350\nPoints: 278\n# Comments: 139",
+      "creator": "breve",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Six years perfecting maps on watchOS",
+      "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "pubDate": "Sat, 02 May 2026 21:14:29 +0000",
+      "isoDate": "2026-05-02T21:14:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/\">https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47990606\">https://news.ycombinator.com/item?id=47990606</a></p>\n<p>Points: 434</p>\n<p># Comments: 116</p>\n",
+      "contentSnippet": "Article URL: https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/\nComments URL: https://news.ycombinator.com/item?id=47990606\nPoints: 434\n# Comments: 116",
+      "creator": "valzevul",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "This Month in Ladybird – April 2026",
+      "link": "https://ladybird.org/newsletter/2026-04-30/",
+      "pubDate": "Sat, 02 May 2026 20:46:30 +0000",
+      "isoDate": "2026-05-02T20:46:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ladybird.org/newsletter/2026-04-30/\">https://ladybird.org/newsletter/2026-04-30/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47990318\">https://news.ycombinator.com/item?id=47990318</a></p>\n<p>Points: 492</p>\n<p># Comments: 146</p>\n",
+      "contentSnippet": "Article URL: https://ladybird.org/newsletter/2026-04-30/\nComments URL: https://news.ycombinator.com/item?id=47990318\nPoints: 492\n# Comments: 146",
+      "creator": "richardboegli",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Neanderthals ran 'fat factories' 125k years ago (2025)",
+      "link": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "pubDate": "Sat, 02 May 2026 20:42:20 +0000",
+      "isoDate": "2026-05-02T20:42:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago\">https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47990284\">https://news.ycombinator.com/item?id=47990284</a></p>\n<p>Points: 286</p>\n<p># Comments: 159</p>\n",
+      "contentSnippet": "Article URL: https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago\nComments URL: https://news.ycombinator.com/item?id=47990284\nPoints: 286\n# Comments: 159",
+      "creator": "andsoitis",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "link": "https://github.com/microsoft/vscode/pull/310226",
+      "pubDate": "Sat, 02 May 2026 19:57:26 +0000",
+      "isoDate": "2026-05-02T19:57:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/microsoft/vscode/pull/310226\">https://github.com/microsoft/vscode/pull/310226</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47989883\">https://news.ycombinator.com/item?id=47989883</a></p>\n<p>Points: 1484</p>\n<p># Comments: 821</p>\n",
+      "contentSnippet": "Article URL: https://github.com/microsoft/vscode/pull/310226\nComments URL: https://news.ycombinator.com/item?id=47989883\nPoints: 1484\n# Comments: 821",
+      "creator": "indrora",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NetHack 5.0.0",
+      "link": "https://nethack.org/v500/release.html",
+      "pubDate": "Sat, 02 May 2026 18:03:42 +0000",
+      "isoDate": "2026-05-02T18:03:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nethack.org/v500/release.html\">https://nethack.org/v500/release.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988776\">https://news.ycombinator.com/item?id=47988776</a></p>\n<p>Points: 510</p>\n<p># Comments: 171</p>\n",
+      "contentSnippet": "Article URL: https://nethack.org/v500/release.html\nComments URL: https://news.ycombinator.com/item?id=47988776\nPoints: 510\n# Comments: 171",
+      "creator": "rsaarelm",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "link": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "pubDate": "Sat, 02 May 2026 17:59:18 +0000",
+      "isoDate": "2026-05-02T17:59:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/clypjx3rg2go\">https://www.bbc.com/news/articles/clypjx3rg2go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988742\">https://news.ycombinator.com/item?id=47988742</a></p>\n<p>Points: 320</p>\n<p># Comments: 351</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/articles/clypjx3rg2go\nComments URL: https://news.ycombinator.com/item?id=47988742\nPoints: 320\n# Comments: 351",
+      "creator": "geox",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Do_not_track",
+      "link": "https://donottrack.sh/",
+      "pubDate": "Sat, 02 May 2026 17:40:55 +0000",
+      "isoDate": "2026-05-02T17:40:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://donottrack.sh/\">https://donottrack.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988592\">https://news.ycombinator.com/item?id=47988592</a></p>\n<p>Points: 527</p>\n<p># Comments: 162</p>\n",
+      "contentSnippet": "Article URL: https://donottrack.sh/\nComments URL: https://news.ycombinator.com/item?id=47988592\nPoints: 527\n# Comments: 162",
+      "creator": "RubyGuy",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Dav2d",
+      "link": "https://code.videolan.org/videolan/dav2d",
+      "pubDate": "Sat, 02 May 2026 17:32:29 +0000",
+      "isoDate": "2026-05-02T17:32:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://code.videolan.org/videolan/dav2d\">https://code.videolan.org/videolan/dav2d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988504\">https://news.ycombinator.com/item?id=47988504</a></p>\n<p>Points: 610</p>\n<p># Comments: 177</p>\n",
+      "contentSnippet": "Article URL: https://code.videolan.org/videolan/dav2d\nComments URL: https://news.ycombinator.com/item?id=47988504\nPoints: 610\n# Comments: 177",
+      "creator": "dabinat",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+      "link": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+      "pubDate": "Sat, 02 May 2026 17:10:18 +0000",
+      "isoDate": "2026-05-02T17:10:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html\">https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988261\">https://news.ycombinator.com/item?id=47988261</a></p>\n<p>Points: 247</p>\n<p># Comments: 149</p>\n",
+      "contentSnippet": "Article URL: https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html\nComments URL: https://news.ycombinator.com/item?id=47988261\nPoints: 247\n# Comments: 149",
+      "creator": "1vuio0pswjnm7",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+      "link": "https://arxiv.org/abs/2509.00462",
+      "pubDate": "Sat, 02 May 2026 15:28:13 +0000",
+      "isoDate": "2026-05-02T15:28:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arxiv.org/abs/2509.00462\">https://arxiv.org/abs/2509.00462</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47987256\">https://news.ycombinator.com/item?id=47987256</a></p>\n<p>Points: 330</p>\n<p># Comments: 178</p>\n",
+      "contentSnippet": "Article URL: https://arxiv.org/abs/2509.00462\nComments URL: https://news.ycombinator.com/item?id=47987256\nPoints: 330\n# Comments: 178",
+      "creator": "laurex",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "America's Expanding Domestic Surveillance",
+      "link": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
+      "pubDate": "Sat, 02 May 2026 15:02:13 +0000",
+      "isoDate": "2026-05-02T15:02:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187\">https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47987006\">https://news.ycombinator.com/item?id=47987006</a></p>\n<p>Points: 269</p>\n<p># Comments: 145</p>\n",
+      "contentSnippet": "Article URL: https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187\nComments URL: https://news.ycombinator.com/item?id=47987006\nPoints: 269\n# Comments: 145",
+      "creator": "Brajeshwar",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Russia Poisons Wikipedia",
+      "link": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
+      "pubDate": "Sat, 02 May 2026 13:07:50 +0000",
+      "isoDate": "2026-05-02T13:07:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bettedangerous.com/p/russia-poisons-wikipedia\">https://www.bettedangerous.com/p/russia-poisons-wikipedia</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47986083\">https://news.ycombinator.com/item?id=47986083</a></p>\n<p>Points: 264</p>\n<p># Comments: 206</p>\n",
+      "contentSnippet": "Article URL: https://www.bettedangerous.com/p/russia-poisons-wikipedia\nComments URL: https://news.ycombinator.com/item?id=47986083\nPoints: 264\n# Comments: 206",
+      "creator": "exceptione",
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-05-04T13:53:31.853Z"
+}

@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
+      "pubDate": "Thu, 30 Apr 2026 16:09:02 +0000",
+      "isoDate": "2026-04-30T16:09:02.000Z",
+      "content": "<p>Learn the difference between CLI interactive v. non-interactive modes.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/\">GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn the difference between CLI interactive v. non-interactive modes.\nThe post GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode appeared first on The GitHub Blog.",
+      "creator": "Kayla Cinnamon",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GitHub for Beginners: Getting started with Markdown",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
+      "pubDate": "Tue, 28 Apr 2026 18:00:00 +0000",
+      "isoDate": "2026-04-28T18:00:00.000Z",
+      "content": "<p>Discover how to format and edit your comments and posts using Markdown.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/\">GitHub for Beginners: Getting started with Markdown</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Discover how to format and edit your comments and posts using Markdown.\nThe post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog.",
+      "creator": "Kedasha Kerr",
+      "summary": "本文面向GitHub初学者，介绍Markdown的基本使用方法。通过Markdown，用户可以学习如何格式化和编辑在GitHub上的评论与帖子，提升内容呈现效果。"
+    },
+    {
+      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+      "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+      "pubDate": "Tue, 28 Apr 2026 15:30:00 +0000",
+      "isoDate": "2026-04-28T15:30:00.000Z",
+      "content": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.\nThe post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on The GitHub Blog.",
+      "creator": "Alexis Wales",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "An update on GitHub availability",
+      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "pubDate": "Tue, 28 Apr 2026 10:01:37 +0000",
+      "isoDate": "2026-04-28T10:01:37.000Z",
+      "content": "<p>Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/an-update-on-github-availability/\">An update on GitHub availability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability.\nThe post An update on GitHub availability appeared first on The GitHub Blog.",
+      "creator": "Vlad Fedorov",
+      "summary": "GitHub发布博客文章，介绍其在提升平台可用性与可靠性方面已采取的措施及持续进行的工作。"
+    },
+    {
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "pubDate": "Mon, 27 Apr 2026 15:58:22 +0000",
+      "isoDate": "2026-04-27T15:58:22.000Z",
+      "content": "<p>Starting June 1, your Copilot usage will consume GitHub AI Credits.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">GitHub Copilot is moving to usage-based billing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Starting June 1, your Copilot usage will consume GitHub AI Credits.\nThe post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog.",
+      "creator": "Mario Rodriguez",
+      "summary": "GitHub Copilot将于6月1日起采用基于使用量的计费模式，用户的使用将消耗GitHub AI积分。"
+    },
+    {
+      "title": "Changes to GitHub Copilot Individual plans",
+      "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "pubDate": "Mon, 20 Apr 2026 18:15:28 +0000",
+      "isoDate": "2026-04-20T18:15:28.000Z",
+      "content": "<p>We're making these changes to ensure a reliable and predictable experience for existing customers.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/\">Changes to GitHub Copilot Individual plans</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We're making these changes to ensure a reliable and predictable experience for existing customers.\nThe post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog.",
+      "creator": "Joe Binder",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Highlights from Git 2.54",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+      "pubDate": "Mon, 20 Apr 2026 16:43:57 +0000",
+      "isoDate": "2026-04-20T16:43:57.000Z",
+      "content": "<p>The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">Highlights from Git 2.54</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time.\nThe post Highlights from Git 2.54 appeared first on The GitHub Blog.",
+      "creator": "Taylor Blau",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Building an emoji list generator with the GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+      "pubDate": "Fri, 17 Apr 2026 18:00:00 +0000",
+      "isoDate": "2026-04-17T18:00:00.000Z",
+      "content": "<p>See how we created an emoji list generator during the Rubber Duck Thursday stream.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/\">Building an emoji list generator with the GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "See how we created an emoji list generator during the Rubber Duck Thursday stream.\nThe post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "creator": "Cassidy Williams",
+      "summary": "在Rubber Duck Thursday直播中，我们使用GitHub Copilot CLI创建了一个表情符号列表生成器。该文章首发于GitHub博客。"
+    },
+    {
+      "title": "Bringing more transparency to GitHub’s status page",
+      "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+      "pubDate": "Fri, 17 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-17T16:00:00.000Z",
+      "content": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub’s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.\nThe post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog.",
+      "creator": "Jakub Oleksy",
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How GitHub uses eBPF to improve deployment safety",
+      "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+      "pubDate": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-16T16:00:00.000Z",
+      "content": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. \nThe post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog.",
+      "creator": "Lawrence Gripper",
+      "summary": "GitHub在其部署工具中利用eBPF技术来检测和防止循环依赖"
+    }
+  ],
+  "lastUpdated": "2026-05-04T14:00:13.713Z"
+}
