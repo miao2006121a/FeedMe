@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+  "title": "Anthropic News",
+  "description": "Latest updates from Anthropic's newsroom",
+  "link": "https://www.anthropic.com/news",
+  "items": [
+    {
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "pubDate": "Tue, 01 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-01T00:00:00.000Z",
+      "content": "Developing Enterprise Frontier Safeguards with our customers",
+      "contentSnippet": "Developing Enterprise Frontier Safeguards with our customers",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-31T00:00:00.000Z",
+      "content": "Improving our alignment and security efforts",
+      "contentSnippet": "Improving our alignment and security efforts",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Expanding our support for scientists",
+      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "pubDate": "Thu, 27 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-27T00:00:00.000Z",
+      "content": "Expanding our support for scientists",
+      "contentSnippet": "Expanding our support for scientists",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Previewing the Model Hardware Standard",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "pubDate": "Thu, 27 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-27T00:00:00.000Z",
+      "content": "Previewing the Model Hardware Standard",
+      "contentSnippet": "Previewing the Model Hardware Standard",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "pubDate": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-25T00:00:00.000Z",
+      "content": "Funding better evaluations of AI’s impact on wellbeing",
+      "contentSnippet": "Funding better evaluations of AI’s impact on wellbeing",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Claude’s text watermark works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "pubDate": "Fri, 14 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-14T00:00:00.000Z",
+      "content": "How Claude’s text watermark works",
+      "contentSnippet": "How Claude’s text watermark works",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Improving Fable 5's biology safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-07T00:00:00.000Z",
+      "content": "Improving Fable 5's biology safeguards",
+      "contentSnippet": "Improving Fable 5's biology safeguards",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "link": "https://www.anthropic.com/news/tino-cuellar",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-04T00:00:00.000Z",
+      "content": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "contentSnippet": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-30T00:00:00.000Z",
+      "content": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "contentSnippet": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "link": "https://www.anthropic.com/news/cognizant-anthropic",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-27T00:00:00.000Z",
+      "content": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "contentSnippet": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-27T00:00:00.000Z",
+      "content": "Our position on open-weights models",
+      "contentSnippet": "Our position on open-weights models",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Claude Opus 5",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "Introducing Claude Opus 5",
+      "contentSnippet": "Introducing Claude Opus 5",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "pubDate": "Wed, 22 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-22T00:00:00.000Z",
+      "content": "Ask Claude about the Anthropic Economic Index",
+      "contentSnippet": "Ask Claude about the Anthropic Economic Index",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "pubDate": "Wed, 22 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-22T00:00:00.000Z",
+      "content": "A research agenda for the Economic Futures Research Fund",
+      "contentSnippet": "A research agenda for the Economic Futures Research Fund",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "link": "https://www.anthropic.com/news/donation-public-first-action",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-21T00:00:00.000Z",
+      "content": "Anthropic is donating another $20 million to Public First Action",
+      "contentSnippet": "Anthropic is donating another $20 million to Public First Action",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-20T00:00:00.000Z",
+      "content": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "contentSnippet": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "link": "https://www.anthropic.com/news/canadian-ai-research",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Anthropic commits $10 million to Canadian AI research",
+      "contentSnippet": "Anthropic commits $10 million to Canadian AI research",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Claude for Teachers",
+      "link": "https://www.anthropic.com/news/claude-for-teachers",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Introducing Claude for Teachers",
+      "contentSnippet": "Introducing Claude for Teachers",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing a way to reflect on how you use Claude",
+      "link": "https://www.anthropic.com/news/reflect-with-claude",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Introducing a way to reflect on how you use Claude",
+      "contentSnippet": "Introducing a way to reflect on how you use Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/ben-bernanke",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "contentSnippet": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Inviting hard questions",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Inviting hard questions",
+      "contentSnippet": "Inviting hard questions",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "UST is bringing Claude to physical AI",
+      "link": "https://www.anthropic.com/news/ust-claude",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "UST is bringing Claude to physical AI",
+      "contentSnippet": "UST is bringing Claude to physical AI",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "link": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-06T00:00:00.000Z",
+      "content": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "contentSnippet": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-02T00:00:00.000Z",
+      "content": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "contentSnippet": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "Claude Science, an AI workbench for scientists, is now available",
+      "contentSnippet": "Claude Science, an AI workbench for scientists, is now available",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Redeploying Fable 5",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "Redeploying Fable 5",
+      "contentSnippet": "Redeploying Fable 5",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "Introducing Claude Sonnet 5",
+      "contentSnippet": "Introducing Claude Sonnet 5",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Claude Tag",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-23T00:00:00.000Z",
+      "content": "Introducing Claude Tag",
+      "contentSnippet": "Introducing Claude Tag",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-17T00:00:00.000Z",
+      "content": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "contentSnippet": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "contentSnippet": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T21:15:02.800Z"
+}

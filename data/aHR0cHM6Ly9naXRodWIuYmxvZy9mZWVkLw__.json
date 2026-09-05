@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "pubDate": "Fri, 04 Sep 2026 16:04:14 +0000",
+      "isoDate": "2026-09-04T16:04:14.000Z",
+      "content": "<p>In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/\">Project HydraFusion: Frontier quality via multi-model orchestration</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot.\nThe post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog.",
+      "creator": "GitHub Staff",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "pubDate": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-03T16:00:00.000Z",
+      "content": "<p>Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/\">GitHub Copilot app for Beginners: Run several agents at once</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.\nThe post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog.",
+      "creator": "Kayla Cinnamon",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "pubDate": "Wed, 02 Sep 2026 21:00:00 +0000",
+      "isoDate": "2026-09-02T21:00:00.000Z",
+      "content": "<p>From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/\">Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.\nThe post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog.",
+      "creator": "Cassidy Williams",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "pubDate": "Wed, 02 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-02T18:00:00.000Z",
+      "content": "<p>Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/\">How we make AI coding more cost efficient without sacrificing task quality</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.\nThe post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.",
+      "creator": "Erik Kristensen",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-27T16:00:00.000Z",
+      "content": "<p>OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/\">OpenClaw went viral. Meet the maintainers building and securing it.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.\nThe post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog.",
+      "creator": "Gregg Cochran",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "pubDate": "Wed, 26 Aug 2026 20:12:53 +0000",
+      "isoDate": "2026-08-26T20:12:53.000Z",
+      "content": "<p>Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/\">GitHub Copilot app for Beginners: Automate Dependabot pull request triage</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task.\nThe post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub Blog.",
+      "creator": "Christopher Harrison",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How to evaluate LLMs before production",
+      "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "pubDate": "Tue, 25 Aug 2026 21:35:11 +0000",
+      "isoDate": "2026-08-25T21:35:11.000Z",
+      "content": "<p>These are the lessons we learned evaluating LLMs for real-world secret scanning.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/\">How to evaluate LLMs before production</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "These are the lessons we learned evaluating LLMs for real-world secret scanning.\nThe post How to evaluate LLMs before production appeared first on The GitHub Blog.",
+      "creator": "Mariko Wakabayashi",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+      "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "pubDate": "Mon, 24 Aug 2026 20:56:32 +0000",
+      "isoDate": "2026-08-24T20:56:32.000Z",
+      "content": "<p>We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works.</p>\n<p>The post <a href=\"https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/\">Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works.\nThe post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog.",
+      "creator": "Taarik Ashenafi",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "pubDate": "Thu, 20 Aug 2026 18:36:11 +0000",
+      "isoDate": "2026-08-20T18:36:11.000Z",
+      "content": "<p>An update on the August 17 outage and the steps we're taking to improve reliability.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">The August 17 outage, and the work ahead</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "An update on the August 17 outage and the steps we're taking to improve reliability.\nThe post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
+      "creator": "Vlad Fedorov",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+      "pubDate": "Wed, 19 Aug 2026 17:50:23 +0000",
+      "isoDate": "2026-08-19T17:50:23.000Z",
+      "content": "<p>If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/\">GitHub Copilot app for Beginners: Managing your work</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nThe post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
+      "creator": "Christopher Harrison",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T21:15:21.429Z"
+}

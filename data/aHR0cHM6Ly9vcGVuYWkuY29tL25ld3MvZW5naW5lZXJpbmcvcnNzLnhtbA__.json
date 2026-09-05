@@ -1,0 +1,261 @@
+{
+  "sourceUrl": "https://openai.com/news/engineering/rss.xml",
+  "title": "OpenAI Engineering News",
+  "description": "The OpenAI engineering blog",
+  "link": "https://openai.com/news/engineering",
+  "items": [
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "isoDate": "2026-08-03T07:00:00.000Z",
+      "content": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "contentSnippet": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "pubDate": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "isoDate": "2026-07-29T00:00:00.000Z",
+      "content": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "contentSnippet": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "contentSnippet": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+      "isoDate": "2026-05-27T07:00:00.000Z",
+      "content": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "contentSnippet": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "link": "https://openai.com/index/building-codex-windows-sandbox",
+      "pubDate": "Wed, 13 May 2026 11:00:00 GMT",
+      "isoDate": "2026-05-13T11:00:00.000Z",
+      "content": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+      "contentSnippet": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "link": "https://openai.com/index/mrc-supercomputer-networking",
+      "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+      "isoDate": "2026-05-05T10:00:00.000Z",
+      "content": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "contentSnippet": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "pubDate": "Mon, 04 May 2026 00:00:00 GMT",
+      "isoDate": "2026-05-04T00:00:00.000Z",
+      "content": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "contentSnippet": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-27T00:00:00.000Z",
+      "content": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "contentSnippet": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "isoDate": "2026-04-22T10:00:00.000Z",
+      "content": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "contentSnippet": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "From model to agent: Equipping the Responses API with a computer environment ",
+      "link": "https://openai.com/index/equip-responses-api-computer-environment",
+      "pubDate": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "isoDate": "2026-03-11T11:00:00.000Z",
+      "content": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "contentSnippet": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Beyond rate limits: scaling access to Codex and Sora",
+      "link": "https://openai.com/index/beyond-rate-limits",
+      "pubDate": "Fri, 13 Feb 2026 09:00:00 GMT",
+      "isoDate": "2026-02-13T09:00:00.000Z",
+      "content": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+      "contentSnippet": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "link": "https://openai.com/index/harness-engineering",
+      "pubDate": "Wed, 11 Feb 2026 09:00:00 GMT",
+      "isoDate": "2026-02-11T09:00:00.000Z",
+      "content": "By Ryan Lopopolo, Member of the Technical Staff",
+      "contentSnippet": "By Ryan Lopopolo, Member of the Technical Staff",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Unlocking the Codex harness: how we built the App Server",
+      "link": "https://openai.com/index/unlocking-the-codex-harness",
+      "pubDate": "Wed, 04 Feb 2026 13:00:00 GMT",
+      "isoDate": "2026-02-04T13:00:00.000Z",
+      "content": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+      "contentSnippet": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Inside OpenAI’s in-house data agent",
+      "link": "https://openai.com/index/inside-our-in-house-data-agent",
+      "pubDate": "Thu, 29 Jan 2026 10:00:00 GMT",
+      "isoDate": "2026-01-29T10:00:00.000Z",
+      "content": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "contentSnippet": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Unrolling the Codex agent loop",
+      "link": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "pubDate": "Fri, 23 Jan 2026 12:00:00 GMT",
+      "isoDate": "2026-01-23T12:00:00.000Z",
+      "content": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "contentSnippet": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+      "link": "https://openai.com/index/scaling-postgresql",
+      "pubDate": "Thu, 22 Jan 2026 12:00:00 GMT",
+      "isoDate": "2026-01-22T12:00:00.000Z",
+      "content": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+      "contentSnippet": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+      "link": "https://openai.com/index/shipping-sora-for-android-with-codex",
+      "pubDate": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-12T00:00:00.000Z",
+      "content": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "contentSnippet": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
+      "link": "https://openai.com/index/building-chatgpt-atlas",
+      "pubDate": "Thu, 30 Oct 2025 00:00:00 GMT",
+      "isoDate": "2025-10-30T00:00:00.000Z",
+      "content": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
+      "contentSnippet": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-08-24T21:43:38.910Z"
+}

@@ -1,0 +1,247 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+  "title": "Anthropic Research",
+  "description": "Latest research from Anthropic",
+  "link": "https://www.anthropic.com/research",
+  "items": [
+    {
+      "title": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "pubDate": "Fri, 04 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-04T00:00:00.000Z",
+      "content": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
+      "contentSnippet": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "link": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "pubDate": "Fri, 28 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-28T00:00:00.000Z",
+      "content": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "contentSnippet": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "link": "https://www.anthropic.com/research/enabling-independent-research",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-26T00:00:00.000Z",
+      "content": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "contentSnippet": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "link": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "pubDate": "Tue, 18 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-18T00:00:00.000Z",
+      "content": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "contentSnippet": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "link": "https://www.anthropic.com/research/multiagent-systems",
+      "pubDate": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-13T00:00:00.000Z",
+      "content": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "contentSnippet": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "EconomicsAug 12, 2026Reviewing the evidence on worker retraining programsWe're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff.",
+      "link": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+      "pubDate": "Wed, 12 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-12T00:00:00.000Z",
+      "content": "EconomicsAug 12, 2026Reviewing the evidence on worker retraining programsWe're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff.",
+      "contentSnippet": "EconomicsAug 12, 2026Reviewing the evidence on worker retraining programsWe're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "link": "https://www.anthropic.com/research/riemann-zeta",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-10T00:00:00.000Z",
+      "content": "Learning more about Claude's mathematical capabilities",
+      "contentSnippet": "Learning more about Claude's mathematical capabilities",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-28T00:00:00.000Z",
+      "content": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "contentSnippet": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "link": "https://www.anthropic.com/research/project-pilot",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "contentSnippet": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Jul 14, 2026EconomicsHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Jul 14, 2026EconomicsHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "contentSnippet": "Jul 14, 2026EconomicsHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "InterpretabilityJul 6, 2026A global workspace in language modelsNew interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output.",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-06T00:00:00.000Z",
+      "content": "InterpretabilityJul 6, 2026A global workspace in language modelsNew interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output.",
+      "contentSnippet": "InterpretabilityJul 6, 2026A global workspace in language modelsNew interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "link": "https://www.anthropic.com/research/teaching-claude-why",
+      "pubDate": "Fri, 08 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-08T00:00:00.000Z",
+      "content": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "contentSnippet": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Societal Impacts",
+      "link": "https://www.anthropic.com/research/team/societal-impacts",
+      "pubDate": "Mon, 19 Feb 2024 00:00:00 +0000",
+      "isoDate": "2024-02-19T00:00:00.000Z",
+      "content": "Societal Impacts",
+      "contentSnippet": "Societal Impacts",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Alignment",
+      "link": "https://www.anthropic.com/research/team/alignment",
+      "pubDate": "Tue, 23 Jan 2024 00:00:00 +0000",
+      "isoDate": "2024-01-23T00:00:00.000Z",
+      "content": "Alignment",
+      "contentSnippet": "Alignment",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Economics",
+      "link": "https://www.anthropic.com/research/team/economics",
+      "pubDate": "Sat, 25 Nov 2023 00:00:00 +0000",
+      "isoDate": "2023-11-25T00:00:00.000Z",
+      "content": "Economics",
+      "contentSnippet": "Economics",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Interpretability",
+      "link": "https://www.anthropic.com/research/team/interpretability",
+      "pubDate": "Sun, 27 Aug 2023 00:00:00 +0000",
+      "isoDate": "2023-08-27T00:00:00.000Z",
+      "content": "Interpretability",
+      "contentSnippet": "Interpretability",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Frontier Red Team",
+      "link": "https://www.anthropic.com/research/team/frontier-red-team",
+      "pubDate": "Sun, 12 Feb 2023 00:00:00 +0000",
+      "isoDate": "2023-02-12T00:00:00.000Z",
+      "content": "Frontier Red Team",
+      "contentSnippet": "Frontier Red Team",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T21:15:02.882Z"
+}
