@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Amodei, Altman, Musk Call for Slowing AI Model Development",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "pubDate": "Sat, 12 Sep 2026 14:17:56 GMT",
+      "isoDate": "2026-09-12T14:17:56.000Z",
+      "content": "Leaders of the world’s biggest artificial intelligence platforms said it’s time to slow the development pace of their most advanced — and most lucrative — models, citing escalating risks of the technology.",
+      "contentSnippet": "Leaders of the world’s biggest artificial intelligence platforms said it’s time to slow the development pace of their most advanced — and most lucrative — models, citing escalating risks of the technology.",
+      "creator": "Kevin Whitelaw and Seth Fiegerman",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Brazil’s Top Court Gives Police Deadline on Banker’s Phone Data",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/brazil-s-top-court-gives-police-deadline-on-banker-s-phone-data",
+      "pubDate": "Sun, 13 Sep 2026 00:02:14 GMT",
+      "isoDate": "2026-09-13T00:02:14.000Z",
+      "content": "Brazil’s Chief Justice Edson Fachin has given the Federal Police 24 hours to provide information regarding the custody and condition of the data extracted from the mobile phone of Daniel Vorcaro, former owner of Banco Master, according to a ruling issued this Saturday.",
+      "contentSnippet": "Brazil’s Chief Justice Edson Fachin has given the Federal Police 24 hours to provide information regarding the custody and condition of the data extracted from the mobile phone of Daniel Vorcaro, former owner of Banco Master, according to a ruling issued this Saturday.",
+      "creator": "Patricia Xavier",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Revolut Says Some Customer Data Were Exposed in Email-Based Scam",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/revolut-says-some-customer-data-were-exposed-in-email-based-scam",
+      "pubDate": "Sat, 12 Sep 2026 22:59:58 GMT",
+      "isoDate": "2026-09-12T22:59:58.000Z",
+      "content": "Revolut Ltd. said a “limited number” of customers had sensitive information disclosed in a scam involving an unauthorized third party that used a legitimate government email domain.",
+      "contentSnippet": "Revolut Ltd. said a “limited number” of customers had sensitive information disclosed in a scam involving an unauthorized third party that used a legitimate government email domain.",
+      "creator": "María Paula Mijares Torres",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tesla Teases Oct. 1 Event to Showcase Next-Generation Roadster",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/tesla-teases-oct-1-event-to-showcase-next-generation-roadster",
+      "pubDate": "Sat, 12 Sep 2026 20:20:58 GMT",
+      "isoDate": "2026-09-12T20:20:58.000Z",
+      "content": "Tesla Inc. teased an Oct. 1 event to showcase its next-generation Roadster vehicle, a niche product that CEO Elon Musk first unveiled in November 2017.",
+      "contentSnippet": "Tesla Inc. teased an Oct. 1 event to showcase its next-generation Roadster vehicle, a niche product that CEO Elon Musk first unveiled in November 2017.",
+      "creator": "Dana Hull",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/openai-ipo-won-t-happen-until-2027-sam-altman-tells-fortune",
+      "pubDate": "Sat, 12 Sep 2026 19:36:39 GMT",
+      "isoDate": "2026-09-12T19:36:39.000Z",
+      "content": "OpenAI won’t go public in this year as the artificial intelligence company focuses on addressing safety-related concerns around the technology, Chief Executive Officer Sam Altman told Fortune in an interview.",
+      "contentSnippet": "OpenAI won’t go public in this year as the artificial intelligence company focuses on addressing safety-related concerns around the technology, Chief Executive Officer Sam Altman told Fortune in an interview.",
+      "creator": "María Paula Mijares Torres and Se Young Lee",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Blizzard Announces ‘Diablo V,’ New ‘StarCraft’ Shooter",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-12/blizzard-announces-diablo-v-new-starcraft-shooter",
+      "pubDate": "Sat, 12 Sep 2026 19:15:01 GMT",
+      "isoDate": "2026-09-12T19:15:01.000Z",
+      "content": "The new games capped off a bounce-back year for the developer",
+      "contentSnippet": "The new games capped off a bounce-back year for the developer",
+      "creator": "Jason Schreier",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Oracle Boosts Layoffs Plan by $700 Million",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+      "pubDate": "Fri, 11 Sep 2026 21:13:29 GMT",
+      "isoDate": "2026-09-11T21:13:29.000Z",
+      "content": "Oracle Corp. increased the scale of its planned job cuts while the company grapples with a cash crunch tied to development of large-scale data centers for artificial intelligence work.",
+      "contentSnippet": "Oracle Corp. increased the scale of its planned job cuts while the company grapples with a cash crunch tied to development of large-scale data centers for artificial intelligence work.",
+      "creator": "Brody Ford",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Larry Ellison Ends Plan to Sell Up to $7.5 Billion in Oracle Stock",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/larry-ellison-scraps-plan-to-sell-up-to-50-million-oracle-shares",
+      "pubDate": "Sat, 12 Sep 2026 16:33:33 GMT",
+      "isoDate": "2026-09-12T16:33:33.000Z",
+      "content": "Oracle Corp. Chairman Larry Ellison canceled his plan to sell as many as 50 million shares in the tech company, a holding worth $7.5 billion, a day after the company disclosed the founder’s divestment plan.",
+      "contentSnippet": "Oracle Corp. Chairman Larry Ellison canceled his plan to sell as many as 50 million shares in the tech company, a holding worth $7.5 billion, a day after the company disclosed the founder’s divestment plan.",
+      "creator": "María Paula Mijares Torres",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Trump Brushes Off AI Doomsaying to Guard US Lead Over China",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
+      "pubDate": "Sat, 12 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-12T13:00:00.000Z",
+      "content": "In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.",
+      "contentSnippet": "In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.",
+      "creator": "Maggie Eastland and Courtney Subramanian",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "China’s AI Industry Pivots to Agents From Models, Report Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/china-s-ai-industry-pivots-to-agents-from-models-report-says",
+      "pubDate": "Sat, 12 Sep 2026 09:37:47 GMT",
+      "isoDate": "2026-09-12T09:37:47.000Z",
+      "content": "China’s artificial intelligence industry is shifting from competition in large models and computing power toward the deployment and commercialization of AI agents, according to a report by the China Telecom Research Institute cited by China Central Television on Saturday.",
+      "contentSnippet": "China’s artificial intelligence industry is shifting from competition in large models and computing power toward the deployment and commercialization of AI agents, according to a report by the China Telecom Research Institute cited by China Central Television on Saturday.",
+      "creator": "Bloomberg News",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T01:01:16.928Z"
+}

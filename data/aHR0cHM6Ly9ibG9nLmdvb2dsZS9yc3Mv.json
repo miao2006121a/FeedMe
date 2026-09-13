@@ -1,0 +1,577 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
+      "link": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/",
+      "pubDate": "Fri, 11 Sep 2026 11:00:00 +0000",
+      "isoDate": "2026-09-11T11:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/venice_film_fest_social.max-600x600.format-webp.webp\">Google shares details on three projects that use technology to push the boundaries of human creativity that premiered during the 83rd Venice Film Festival.",
+      "contentSnippet": "Google shares details on three projects that use technology to push the boundaries of human creativity that premiered during the 83rd Venice Film Festival.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
+      "pubDate": "Thu, 10 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-10T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dreambeans_social.max-600x600.format-webp.webp\">In June, Google Labs introduced Dreambeans, an experiment that creates personalized daily collections of stories. Now, Dreambeans is available to all accounts in the U.S…",
+      "contentSnippet": "In June, Google Labs introduced Dreambeans, an experiment that creates personalized daily collections of stories. Now, Dreambeans is available to all accounts in the U.S…",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-10T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp\">Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "contentSnippet": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Peter Schottenfels"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Gemini app is now available for Windows",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-10T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp\">We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
+      "contentSnippet": "We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Erin Pettigrew"
+        ],
+        "title": [
+          "Director of Product Management"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Switching password managers is easy and safe on Android",
+      "link": "https://blog.google/products-and-platforms/platforms/android/switch-password-managers/",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-10T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_4.max-600x600.format-webp.webp\">A new Android feature lets you securely transfer passwords and passkeys between password managers.",
+      "contentSnippet": "A new Android feature lets you securely transfer passwords and passkeys between password managers.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jean-Pierre Pralle"
+        ],
+        "title": [
+          "Product Manager, Android"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Drive profitable growth with new data and measurement tools",
+      "link": "https://blog.google/products/ads-commerce/data-strength-updates/",
+      "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
+      "isoDate": "2026-09-10T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_EnnLoZX.max-600x600.format-webp.webp\">New capabilities across our measurement suite can help you make better, faster decisions that drive business growth.",
+      "contentSnippet": "New capabilities across our measurement suite can help you make better, faster decisions that drive business growth.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Nipoon Malhotra"
+        ],
+        "title": [
+          "VP, Ads Analytics, Insights, and Measurement"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Exploring Creative Intelligence with London’s Southbank Centre",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/",
+      "pubDate": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "isoDate": "2026-09-10T11:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Landscape.max-600x600.format-webp.webp\">A new weekend explores how artists, digital innovation and AI are reshaping the world we live in.",
+      "contentSnippet": "A new weekend explores how artists, digital innovation and AI are reshaping the world we live in.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mark Ball"
+        ],
+        "title": [
+          "Artistic Director, Southbank Centre"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A new deep learning model maps global methane emissions from space.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
+      "pubDate": "Wed, 09 Sep 2026 18:15:00 +0000",
+      "isoDate": "2026-09-09T18:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp\">Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
+      "contentSnippet": "Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Vishal Batchu"
+        ],
+        "title": [
+          "Research Engineer"
+        ],
+        "department": [
+          "Google Research"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tackle your to-do list with new features in our Google AI plans.",
+      "link": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/",
+      "pubDate": "Wed, 09 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-09T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Plans_Recap_Blog.max-600x600.format-webp.webp\">Subscribers can try Google Pics and Sheets canvas — plus, new voice features in Gmail, Docs, and Keep.",
+      "contentSnippet": "Subscribers can try Google Pics and Sheets canvas — plus, new voice features in Gmail, Docs, and Keep.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Vikas Kansal"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "AI Subscriptions"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "4 ways Gemini makes administrative chores quick and easy",
+      "link": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/",
+      "pubDate": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-09T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp\">People are turning to Gemini for help with complex government tasks, like filing taxes, preparing fines, and accessing social services.",
+      "contentSnippet": "People are turning to Gemini for help with complex government tasks, like filing taxes, preparing fines, and accessing social services.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sarah Armstrong"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Recreating a 70-year love story frame by frame",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "pubDate": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-09T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp\">Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "contentSnippet": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michael Chang"
+        ],
+        "title": [
+          "Google DeepMind engineer"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Get ready for the game with new football features in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "pubDate": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-09T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp\">Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "contentSnippet": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Denise Ho"
+        ],
+        "title": [
+          "Senior Director, Product Management, Search"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google Accelerators have spent the last decade helping global startups succeed.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/",
+      "pubDate": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-09T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp\">Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.",
+      "contentSnippet": "Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kevin O’Toole"
+        ],
+        "title": [
+          "Global Head of Google Accelerators"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 +0000",
+      "isoDate": "2026-09-09T07:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_FI_Announcement_Helsinki.max-600x600.format-webp.webp\">Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.",
+      "contentSnippet": "Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Bikash Koley"
+        ],
+        "title": [
+          "Vice President, Google Global Infrastructure"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Our blueprint for responsible clean energy growth in Finland",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-finland/",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 +0000",
+      "isoDate": "2026-09-09T07:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-09-08_5.59.23_P.max-600x600.format-webp.webp\">Today Google announced new local energy partnerships — including our first ever agreement for a nuclear plant life extension & uprate — to contribute to a resilient, aff…",
+      "contentSnippet": "Today Google announced new local energy partnerships — including our first ever agreement for a nuclear plant life extension & uprate — to contribute to a resilient, aff…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Enrique Frances"
+        ],
+        "title": [
+          "Senior Lead"
+        ],
+        "department": [
+          "Energy Strategy"
+        ],
+        "company": [
+          "EMEA"
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Missouri and Google partner on AI and career training",
+      "link": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/",
+      "pubDate": "Tue, 08 Sep 2026 15:05:00 +0000",
+      "isoDate": "2026-09-08T15:05:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp\">Google is partnering with Missouri to provide 1.1 million students free access to Gemini for Education and career certificates. See how to get started.",
+      "contentSnippet": "Google is partnering with Missouri to provide 1.1 million students free access to Gemini for Education and career certificates. See how to get started.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Drew Sidel"
+        ],
+        "title": [
+          "North America Lead"
+        ],
+        "department": [
+          "Google Workspace and AI for Education"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re helping put 25 new electric semi trucks on the road in Texas.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/",
+      "pubDate": "Tue, 08 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-08T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp\">We’re partnering with Nevoya and the Center for Green Market Activation (GMA) to deploy 25 electric semi trucks.",
+      "contentSnippet": "We’re partnering with Nevoya and the Center for Green Market Activation (GMA) to deploy 25 electric semi trucks.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jenna Stauffer"
+        ],
+        "title": [
+          "Head of Strategic Priorities"
+        ],
+        "department": [
+          "Climate Operations"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "pubDate": "Tue, 08 Sep 2026 14:00:00 +0000",
+      "isoDate": "2026-09-08T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.max-600x600.format-webp.webp\">We’re introducing AlphaGenome Atlas, a database predicting the effects of every possible single nucleotide variant in the human genome.",
+      "contentSnippet": "We’re introducing AlphaGenome Atlas, a database predicting the effects of every possible single nucleotide variant in the human genome.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Pushmeet Kohli"
+        ],
+        "title": [
+          "VP Science, Google DeepMind & Chief Scientist, Google Cloud"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Helping small businesses win with AI",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/",
+      "pubDate": "Tue, 08 Sep 2026 13:00:00 +0000",
+      "isoDate": "2026-09-08T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Helping_Small_Businesses_Win_wi.max-600x600.format-webp.webp\">We took to Route 66 to help Main Street entrepreneurs build confidence with AI. Explore free tools at Grow.Google/SMB.",
+      "contentSnippet": "We took to Route 66 to help Main Street entrepreneurs build confidence with AI. Explore free tools at Grow.Google/SMB.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lisa Gevelber"
+        ],
+        "title": [
+          "Founder, Grow with Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Our new contrail avoidance trial in Asia-Pacific",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/",
+      "pubDate": "Mon, 07 Sep 2026 08:00:00 +0000",
+      "isoDate": "2026-09-07T08:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Contrails_Hero.max-600x600.format-webp.webp\">We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.",
+      "contentSnippet": "We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kemal Armada"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T01:01:21.304Z"
+}
