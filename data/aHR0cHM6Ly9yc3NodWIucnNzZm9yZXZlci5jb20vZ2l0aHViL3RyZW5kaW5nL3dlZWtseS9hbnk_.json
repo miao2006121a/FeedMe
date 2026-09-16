@@ -1,0 +1,317 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "ayghri/i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/22171b366b56ea94e8375ec4e6c02f16806dda1e12f2ca233d2253419c889e3b/ayghri/i-have-adhd\" referrerpolicy=\"no-referrer\"><br>A skill to stop your coding agent from burying the answer. ADHD-friendly output.<br><br>Language: Python<br>Stars: 46195<br>Forks: 2686",
+      "contentSnippet": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.\nLanguage: Python\nStars: 46195\nForks: 2686",
+      "creator": "ayghri",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/848a6f35adbb7b419c48f998397c3b3d0082544f9a8839f7933e09af3035db6d/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 34699<br>Forks: 6932",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 34699\nForks: 6932",
+      "creator": "bilawalsidhu",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "openai/plugins",
+      "link": "https://github.com/openai/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2f5c6fad0eaf34d3e905c6a2574126ed66f5877ecf7e71fc7caf112b452e2117/openai/plugins\" referrerpolicy=\"no-referrer\"><br>OpenAI Plugins<br><br>Language: JavaScript<br>Stars: 6777<br>Forks: 887",
+      "contentSnippet": "OpenAI Plugins\nLanguage: JavaScript\nStars: 6777\nForks: 887",
+      "creator": "openai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dee5de0fc0184dde888698f4e86146b78a0466050ddb01711eff0783dbcdedd8/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 259214<br>Forks: 38774",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 259214\nForks: 38774",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ba60a4d778408a0aaf8d4ecda68d52211dd146bd7cad0cf21a51dfca6eea2b17/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 23055<br>Forks: 1665",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 23055\nForks: 1665",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 28292<br>Forks: 2035",
+      "contentSnippet": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 28292\nForks: 2035",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 139308<br>Forks: 7487",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 139308\nForks: 7487",
+      "creator": "DietrichGebert",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f40dde58ced709413ac26709439c6fe1f100573bdc66662cd2e58a1e48bdb16c/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 287125<br>Forks: 25677",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 287125\nForks: 25677",
+      "creator": "obra",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "max-sixty/worktrunk",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1078528927/6196f2ac-248f-42f5-abb5-d18768111b3b\" referrerpolicy=\"no-referrer\"><br>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows<br><br>Language: Rust<br>Stars: 7769<br>Forks: 272",
+      "contentSnippet": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\nLanguage: Rust\nStars: 7769\nForks: 272",
+      "creator": "max-sixty",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1c863a260c4e19cad73c79bcff52b7caba29a55af7aa8ccd415f423e11a787d8/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 50354<br>Forks: 4595",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 50354\nForks: 4595",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/66e32975df6ef4aa0af9425b8e89b1ab2e6ffa03fb8e88866759bacceca6c0b2/microsoft/markitdown\" referrerpolicy=\"no-referrer\"><br>Python tool for converting files and office documents to Markdown.<br><br>Language: Python<br>Stars: 184364<br>Forks: 13582",
+      "contentSnippet": "Python tool for converting files and office documents to Markdown.\nLanguage: Python\nStars: 184364\nForks: 13582",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "blader/humanizer",
+      "link": "https://github.com/blader/humanizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0a2c55adb5efd8aad0faa2f3587126cd5c1371800f2b4b4f5a7f8a241eee5940/blader/humanizer\" referrerpolicy=\"no-referrer\"><br>Agent skill that removes signs of AI-generated writing from text<br><br>Language: Python<br>Stars: 48527<br>Forks: 3939",
+      "contentSnippet": "Agent skill that removes signs of AI-generated writing from text\nLanguage: Python\nStars: 48527\nForks: 3939",
+      "creator": "blader",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "openai/skills",
+      "link": "https://github.com/openai/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f2b235bc54fd5e3b65e0fa0b5e781e50da2a45939cae00b53237163e86fe2b35/openai/skills\" referrerpolicy=\"no-referrer\"><br>Skills Catalog for Codex<br><br>Language: Python<br>Stars: 27270<br>Forks: 1823",
+      "contentSnippet": "Skills Catalog for Codex\nLanguage: Python\nStars: 27270\nForks: 1823",
+      "creator": "openai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "JustVugg/colibri",
+      "link": "https://github.com/JustVugg/colibri",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9b4a7d783d16d0c79d676f2d594ca0590936dd3bf6a839a3e37f8954d21eb886/JustVugg/colibri\" referrerpolicy=\"no-referrer\"><br>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦<br><br>Language: C<br>Stars: 33652<br>Forks: 3531",
+      "contentSnippet": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦\nLanguage: C\nStars: 33652\nForks: 3531",
+      "creator": "JustVugg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tt-a1i/archify",
+      "link": "https://github.com/tt-a1i/archify",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1\" referrerpolicy=\"no-referrer\"><br>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.<br><br>Language: JavaScript<br>Stars: 63421<br>Forks: 4211",
+      "contentSnippet": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\nLanguage: JavaScript\nStars: 63421\nForks: 4211",
+      "creator": "tt-a1i",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1\" referrerpolicy=\"no-referrer\"><br>TradingAgents: Multi-Agents LLM Financial Trading Framework<br><br>Language: Python<br>Stars: 106627<br>Forks: 20386",
+      "contentSnippet": "TradingAgents: Multi-Agents LLM Financial Trading Framework\nLanguage: Python\nStars: 106627\nForks: 20386",
+      "creator": "TauricResearch",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "THU-MAIC/OpenMAIC",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8593bd9ef0c7c2a2a9ae1e55df411e24ca961c3ef3bbce3d624b1db1b9e3ecd1/THU-MAIC/OpenMAIC\" referrerpolicy=\"no-referrer\"><br>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click<br><br>Language: TypeScript<br>Stars: 37086<br>Forks: 5849",
+      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\nLanguage: TypeScript\nStars: 37086\nForks: 5849",
+      "creator": "THU-MAIC",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "link": "https://github.com/Tencent/WeKnora",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9371b7255b25310739db2d37eec50f3b098a4bb167502b343a4253b2f7c305c2/Tencent/WeKnora\" referrerpolicy=\"no-referrer\"><br>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.<br><br>Language: Go<br>Stars: 24037<br>Forks: 3368",
+      "contentSnippet": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.\nLanguage: Go\nStars: 24037\nForks: 3368",
+      "creator": "Tencent",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "petergyang/no-ai-slop",
+      "link": "https://github.com/petergyang/no-ai-slop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e2fe973eff43e565ee4fb479108045781d07d230230294391795ea5c901431d8/petergyang/no-ai-slop\" referrerpolicy=\"no-referrer\"><br>Removes 20+ patterns of AI slop from any piece of writing.<br><br>Language: Python<br>Stars: 9839<br>Forks: 697",
+      "contentSnippet": "Removes 20+ patterns of AI slop from any piece of writing.\nLanguage: Python\nStars: 9839\nForks: 697",
+      "creator": "petergyang",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "earthtojake/text-to-cad",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4634160164d89b1ffc40f78dd607b75eb702829c048165e02ec40307a377361f/earthtojake/text-to-cad\" referrerpolicy=\"no-referrer\"><br>A library of agent skills for CAD, CAE and CAM<br><br>Language: Python<br>Stars: 15887<br>Forks: 1651",
+      "contentSnippet": "A library of agent skills for CAD, CAE and CAM\nLanguage: Python\nStars: 15887\nForks: 1651",
+      "creator": "earthtojake",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "decolua/9router",
+      "link": "https://github.com/decolua/9router",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d79c58a024d74af8fe4f7d91ac2add2cd97dce95ce8f0ecbd61ce99f6e5041a5/decolua/9router\" referrerpolicy=\"no-referrer\"><br>Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.<br><br>Language: JavaScript<br>Stars: 28883<br>Forks: 5306",
+      "contentSnippet": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.\nLanguage: JavaScript\nStars: 28883\nForks: 5306",
+      "creator": "decolua",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "github/spec-kit",
+      "link": "https://github.com/github/spec-kit",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9c1a3881a64b5887d5f1211c909271b04b531f340f63e148124e65bd3358186d/github/spec-kit\" referrerpolicy=\"no-referrer\"><br>💫 Toolkit to help you get started with Spec-Driven Development<br><br>Language: Python<br>Stars: 137032<br>Forks: 12275",
+      "contentSnippet": "💫 Toolkit to help you get started with Spec-Driven Development\nLanguage: Python\nStars: 137032\nForks: 12275",
+      "creator": "github",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-15T21:21:45.852Z"
+}
