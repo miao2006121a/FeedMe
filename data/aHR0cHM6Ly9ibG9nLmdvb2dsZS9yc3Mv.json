@@ -1,0 +1,529 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Earn continuing education and college credits for AI educator training.",
+      "link": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
+      "pubDate": "Fri, 18 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-18T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_uuiGKMu.webp\">Earn college or continuing education credits by taking the Google AI Educator Series courses.",
+      "contentSnippet": "Earn college or continuing education credits by taking the Google AI Educator Series courses.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "pubDate": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "isoDate": "2026-09-18T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp\">We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "contentSnippet": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Scott Strand"
+        ],
+        "title": [
+          "Head of StratOps and Special Projects"
+        ],
+        "department": [
+          "Technology & Society"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Co-creating the future of fashion with Google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "pubDate": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "isoDate": "2026-09-18T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp\">Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "contentSnippet": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yeawon Choi"
+        ],
+        "title": [
+          "UX Designer"
+        ],
+        "department": [
+          "Envisioning Studio"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Build campaigns that drive high-converting, sales-ready leads.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
+      "pubDate": "Fri, 18 Sep 2026 12:00:00 +0000",
+      "isoDate": "2026-09-18T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp\">In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?",
+      "contentSnippet": "In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "isoDate": "2026-09-17T20:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp\">Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "contentSnippet": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Prem Ramaswami"
+        ],
+        "title": [
+          "Head of Data Commons"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The new CC, an AI agent built for families",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "pubDate": "Thu, 17 Sep 2026 18:15:00 +0000",
+      "isoDate": "2026-09-17T18:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp\">Google Labs is expanding CC to groups, starting with families and households, so they can spend less time on logistics.",
+      "contentSnippet": "Google Labs is expanding CC to groups, starting with families and households, so they can spend less time on logistics.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tom Shane"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Google Labs"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Drive with “Forgotten Island” on Waze.",
+      "link": "https://blog.google/waze/waze-forgotten-island/",
+      "pubDate": "Thu, 17 Sep 2026 11:28:00 +0000",
+      "isoDate": "2026-09-17T11:28:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp\">Ready to turn your daily commute into an epic island adventure? Waze is bringing your new navigation best friend to the passenger seat, just in time for the release of D…",
+      "contentSnippet": "Ready to turn your daily commute into an epic island adventure? Waze is bringing your new navigation best friend to the passenger seat, just in time for the release of D…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Waze"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/",
+      "pubDate": "Thu, 17 Sep 2026 07:00:00 +0000",
+      "isoDate": "2026-09-17T07:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp\">Google is partnering with Stegra to help bring their first-of-its-kind, near-zero emissions steel plant online.",
+      "contentSnippet": "Google is partnering with Stegra to help bring their first-of-its-kind, near-zero emissions steel plant online.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ben Townsend"
+        ],
+        "title": [
+          "Head of Infrastructure Strategy & Sustainability"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "3 new ways we're improving Search profiles for publishers",
+      "link": "https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/",
+      "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-16T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp\">Search profile updates help publishers better highlight their content and connect with their audiences.",
+      "contentSnippet": "Search profile updates help publishers better highlight their content and connect with their audiences.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ibrahim Badr"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Search"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Rethink your strategy to drive sales this holiday season.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
+      "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-16T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E3_thumbnail.max-600x600.format-webp.webp\">In this Ads Decoded episode, we share steps you can take now to drive sales and reach customers during the holiday season.",
+      "contentSnippet": "In this Ads Decoded episode, we share steps you can take now to drive sales and reach customers during the holiday season.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "5 things to know about teens' views on AI today",
+      "link": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/",
+      "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-16T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teens_views_on_AI_hero.max-600x600.format-webp.webp\">Findings from our research with RXN show teens are thoughtful and curious about AI.",
+      "contentSnippet": "Findings from our research with RXN show teens are thoughtful and curious about AI.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jennifer Kotler, PhD"
+        ],
+        "title": [
+          "Kids and Family UX Research Lead"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Boost your holiday sales with these agentic commerce updates",
+      "link": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
+      "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
+      "isoDate": "2026-09-16T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Think_Retail_hero_xePKgsT.max-600x600.format-webp.webp\">Help boost holiday sales with agentic commerce updates and product feed best practices from Google.",
+      "contentSnippet": "Help boost holiday sales with agentic commerce updates and product feed best practices from Google.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ashish Gupta"
+        ],
+        "title": [
+          "VP/GM"
+        ],
+        "department": [
+          "Merchant Shopping"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Rethink 2026",
+      "link": "https://blog.google/products/ads-commerce/rethink-2026/",
+      "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
+      "isoDate": "2026-09-16T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rethink_2026_collection_hero.max-600x600.format-webp.webp\">At Rethink 2026, we’re helping marketers prepare for the holiday season with new ways to connect with customers and boost ROI.",
+      "contentSnippet": "At Rethink 2026, we’re helping marketers prepare for the holiday season with new ways to connect with customers and boost ROI.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re catalyzing megaton-scale climate impact in Brazil",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/",
+      "pubDate": "Wed, 16 Sep 2026 12:00:00 +0000",
+      "isoDate": "2026-09-16T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Superpollutant_and_Carbon_Remov.max-600x600.format-webp.webp\">Our latest carbon removal agreement delivers both immediate and permanent climate benefits.",
+      "contentSnippet": "Our latest carbon removal agreement delivers both immediate and permanent climate benefits.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Randy Spock"
+        ],
+        "title": [
+          "Head of Carbon Removal"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Reimagining Chicago’s Thompson Center for the next generation",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/",
+      "pubDate": "Wed, 16 Sep 2026 05:01:00 +0000",
+      "isoDate": "2026-09-16T05:01:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thompson_Center_herosocial.max-600x600.format-webp.webp\">Our new Chicago office at Thompson Center brings together art, community and architecture.",
+      "contentSnippet": "Our new Chicago office at Thompson Center brings together art, community and architecture.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mike Miller"
+        ],
+        "title": [
+          "VP & Chicago Site Lead"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/september-2026-pixel-drop/",
+      "pubDate": "Tue, 15 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-15T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026_Pixel_Drop_social.max-600x600.format-webp.webp\">Our September Pixel Drop is here with an updated Pixel VIP widget, expanded chat Scam Detection, and more.",
+      "contentSnippet": "Our September Pixel Drop is here with an updated Pixel VIP widget, expanded chat Scam Detection, and more.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
+      "pubDate": "Tue, 15 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-15T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-live-api-header_1.max-600x600.format-webp.webp\">A look at how developers can build with our latest audio models, Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe.",
+      "contentSnippet": "A look at how developers can build with our latest audio models, Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Alisa Fortin"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "pubDate": "Tue, 15 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-15T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog.max-600x600.format-webp.webp\">Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
+      "contentSnippet": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tom Ouyang"
+        ],
+        "title": [
+          "Principal Engineer"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "15 organizations transforming public service with AI",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/",
+      "pubDate": "Tue, 15 Sep 2026 16:30:00 +0000",
+      "isoDate": "2026-09-15T16:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp\">Introducing the organizations selected for the Google.org Impact Challenge: AI for Government Innovation.",
+      "contentSnippet": "Introducing the organizations selected for the Google.org Impact Challenge: AI for Government Innovation.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maggie Johnson"
+        ],
+        "title": [
+          "Global Head and VP"
+        ],
+        "department": [
+          "Google.org"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sharpen your study routine with new Gemini Notebook tools",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/",
+      "pubDate": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-15T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp\">An overview of the latest study and learning tools in Gemini Notebook.",
+      "contentSnippet": "An overview of the latest study and learning tools in Gemini Notebook.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Trond Wuellner"
+        ],
+        "title": [
+          "Director of Product Management"
+        ],
+        "department": [
+          "Gemini Notebook"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-19T14:26:13.371Z"
+}
