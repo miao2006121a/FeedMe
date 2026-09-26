@@ -1,0 +1,121 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Deel Dealt New Setbacks in Rippling Case Over Alleged Spying",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-26/deel-dealt-fresh-setbacks-in-rippling-case-over-alleged-spying",
+      "pubDate": "Sat, 26 Sep 2026 02:07:32 GMT",
+      "isoDate": "2026-09-26T02:07:32.000Z",
+      "content": "Deel Inc. was hit with new setbacks in Rippling Inc.’s corporate espionage litigation against the HR startup.",
+      "contentSnippet": "Deel Inc. was hit with new setbacks in Rippling Inc.’s corporate espionage litigation against the HR startup.",
+      "creator": "Peter Blumberg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Alabama Says TikTok to Pay Up to $300 Million for Kid Safety",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/alabama-says-tiktok-to-pay-up-to-300-million-over-child-safety",
+      "pubDate": "Fri, 25 Sep 2026 22:47:43 GMT",
+      "isoDate": "2026-09-25T22:47:43.000Z",
+      "content": "Alabama’s attorney general said TikTok has agreed to pay up to $300 million and adopt new user protection measures to settle the state’s child-safety lawsuit that was set for a jury trial to begin Monday.",
+      "contentSnippet": "Alabama’s attorney general said TikTok has agreed to pay up to $300 million and adopt new user protection measures to settle the state’s child-safety lawsuit that was set for a jury trial to begin Monday.",
+      "creator": "Georgia Fearn",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Exxon Signs Shale Deal With Azerbaijan for Middle Kura Basin",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-26/exxon-signs-shale-deal-with-azerbaijan-for-middle-kura-basin",
+      "pubDate": "Sat, 26 Sep 2026 15:21:55 GMT",
+      "isoDate": "2026-09-26T15:21:55.000Z",
+      "content": "ExxonMobil Holdings Corp. agreed to pump oil and natural gas from Azerbaijan’s shale fields as the Texas energy giant takes its fracking expertise overseas.",
+      "contentSnippet": "ExxonMobil Holdings Corp. agreed to pump oil and natural gas from Azerbaijan’s shale fields as the Texas energy giant takes its fracking expertise overseas.",
+      "creator": "Kevin Crowley",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AI Gives Tech Firms New National Security Power",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-26/ai-gives-tech-firms-new-national-security-power-video",
+      "pubDate": "Sat, 26 Sep 2026 13:19:22 GMT",
+      "isoDate": "2026-09-26T13:19:22.000Z",
+      "content": "Author Sharon Weinberger tells Bloomberg This Weekend that Silicon Valley’s relationship with the defense industry has transformed as technology companies and investors increasingly embrace national security work. Speaking with host Christina Ruffini, Weinberger says the growing power of AI and defense technology companies is testing the government’s ability to provide effective regulation and oversight. (Source: Bloomberg)",
+      "contentSnippet": "Author Sharon Weinberger tells Bloomberg This Weekend that Silicon Valley’s relationship with the defense industry has transformed as technology companies and investors increasingly embrace national security work. Speaking with host Christina Ruffini, Weinberger says the growing power of AI and defense technology companies is testing the government’s ability to provide effective regulation and oversight. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "What Is an AI Kill Switch? Why Shutting Down AI Isn’t So Simple",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-26/what-is-an-ai-kill-switch-why-shutting-down-ai-isn-t-so-simple",
+      "pubDate": "Sat, 26 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-26T12:00:00.000Z",
+      "content": "If artificial intelligence becomes too powerful for its creators to control, is it possible to just flip a switch and turn it off?",
+      "contentSnippet": "If artificial intelligence becomes too powerful for its creators to control, is it possible to just flip a switch and turn it off?",
+      "creator": "Micah Barkley",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI Sandbox Failure Allows AI Agent to Gain Internet Access",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
+      "pubDate": "Sat, 26 Sep 2026 04:29:43 GMT",
+      "isoDate": "2026-09-26T04:29:43.000Z",
+      "content": "OpenAI said another agentic AI system that was being trained in what was supposed to be a secured, internet-free environment was able to gain access to the web to reach an external, third-party chatbot.",
+      "contentSnippet": "OpenAI said another agentic AI system that was being trained in what was supposed to be a secured, internet-free environment was able to gain access to the web to reach an external, third-party chatbot.",
+      "creator": "Lynn Doan",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI’s Models Accessed Public US Census, SEC Data",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites",
+      "pubDate": "Fri, 25 Sep 2026 20:34:28 GMT",
+      "isoDate": "2026-09-25T20:34:28.000Z",
+      "content": "OpenAI’s artificial intelligence models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Commission.",
+      "contentSnippet": "OpenAI’s artificial intelligence models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Commission.",
+      "creator": "Rachel Metz, Jeff Stone and Jake Bleiberg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "CORRECT: India’s Quick-Commerce Architect Eyes Long Bets",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-17/india-s-quick-commerce-architect-takes-on-slow-wagers-video",
+      "pubDate": "Thu, 17 Sep 2026 23:06:26 GMT",
+      "isoDate": "2026-09-17T23:06:26.000Z",
+      "content": "The man who transformed how urban India eats, dines, and shops, Deepinder Goyal built his food delivery startup Zomato into one of the country’s biggest consumer technology companies, Eternal. At the height of its success, Goyal stepped away from the day-to-day running of the company he built, to turn his attention to a very different set of challenges with a much longer horizon. \n\nIn an exclusive interview on his sprawling residence in Delhi, Bloomberg’s Haslinda Amin speaks with Goyal about the never-ending journeys of founders, his current pursuits, and his quest for a different kind of eternity. \n\nCorrect: Video updated to correct currency in stock price charts at 04:12 and 07:50 of the program. (Source: Bloomberg)",
+      "contentSnippet": "The man who transformed how urban India eats, dines, and shops, Deepinder Goyal built his food delivery startup Zomato into one of the country’s biggest consumer technology companies, Eternal. At the height of its success, Goyal stepped away from the day-to-day running of the company he built, to turn his attention to a very different set of challenges with a much longer horizon. \n\nIn an exclusive interview on his sprawling residence in Delhi, Bloomberg’s Haslinda Amin speaks with Goyal about the never-ending journeys of founders, his current pursuits, and his quest for a different kind of eternity. \n\nCorrect: Video updated to correct currency in stock price charts at 04:12 and 07:50 of the program. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T22:52:19.030Z"
+}

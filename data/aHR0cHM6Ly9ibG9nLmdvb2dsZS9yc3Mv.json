@@ -1,0 +1,545 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "5 ways to upgrade your study habits with Chrome",
+      "link": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
+      "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-24T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Chrome_Learning_Moment.max-600x600.format-webp.webp\">From managing complex research projects to minimizing digital distractions, Chrome has the tools you need to succeed this school year.",
+      "contentSnippet": "From managing complex research projects to minimizing digital distractions, Chrome has the tools you need to succeed this school year.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Charmaine Dsilva"
+        ],
+        "title": [
+          "Senior Director, Product Management"
+        ],
+        "department": [
+          "Chrome"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "5 Google Photos updates to make the most of summer memories.",
+      "link": "https://blog.google/products-and-platforms/products/photos/google-photos-updates/",
+      "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-24T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp\">Five updates in Google Photos that will help you make the most of your summer memories.",
+      "contentSnippet": "Five updates in Google Photos that will help you make the most of your summer memories.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Simon Li"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google Photos"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Our new health and safety tools are live in the Google Health app.",
+      "link": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
+      "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-24T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp\">Pixel Watch users can explore the new health and safety tools in the Google Health app.",
+      "contentSnippet": "Pixel Watch users can explore the new health and safety tools in the Google Health app.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shamira Sridharan Weaver"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Turn discovery into action with September’s Demand Gen Drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
+      "pubDate": "Thu, 24 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-24T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp\">Turn discovery into action with new seamless experiences and integrations from YouTube’s September Demand Gen Drop.",
+      "contentSnippet": "Turn discovery into action with new seamless experiences and integrations from YouTube’s September Demand Gen Drop.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+      "pubDate": "Thu, 24 Sep 2026 15:30:00 +0000",
+      "isoDate": "2026-09-24T15:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.max-600x600.format-webp.webp\">Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.",
+      "contentSnippet": "Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shuo-yiin Chang"
+        ],
+        "title": [
+          "Research Scientist"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "pubDate": "Thu, 24 Sep 2026 13:00:00 +0000",
+      "isoDate": "2026-09-24T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.max-600x600.format-webp.webp\">Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
+      "contentSnippet": "Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Travis Beals"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Paradigms of Intelligence"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Helping 25,000 veterans and military families build careers in skilled trades",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/",
+      "pubDate": "Thu, 24 Sep 2026 12:00:00 +0000",
+      "isoDate": "2026-09-24T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OHIO_Action_Anthony_003v_Crop_V.max-600x600.format-webp.webp\">Google.org is supporting organizations to help veterans and military families find careers in skilled trades.",
+      "contentSnippet": "Google.org is supporting organizations to help veterans and military families find careers in skilled trades.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tim Chadwick"
+        ],
+        "title": [
+          "Data Center Operations Area Lead"
+        ],
+        "department": [
+          "Ohio and Indiana"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Turning cultural artifacts into interactive learning companions",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
+      "pubDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "isoDate": "2026-09-24T10:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Talking_MuseumsMuseumMemory_Her.max-600x600.format-webp.webp\">Uncover the history of nearly 200 historical objects, or put your visual recall to the test in a freshly hung exhibition.",
+      "contentSnippet": "Uncover the history of nearly 200 historical objects, or put your visual recall to the test in a freshly hung exhibition.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Freya Salway"
+        ],
+        "title": [
+          "Head of Google Arts & Culture Lab"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+      "pubDate": "Wed, 23 Sep 2026 19:00:00 +0000",
+      "isoDate": "2026-09-23T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.max-600x600.format-webp.webp\">Get high-quality video production right from your browser. Anyone with a Google account can create videos for free in Google Vids.",
+      "contentSnippet": "Get high-quality video production right from your browser. Anyone with a Google account can create videos for free in Google Vids.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Justin Luk"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google Vids"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "pubDate": "Wed, 23 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-23T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp\">We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "contentSnippet": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Aaron Luber"
+        ],
+        "title": [
+          "Director, Business Development"
+        ],
+        "department": [
+          "Google Beam"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "6 ways Android Enterprise is evolving for the modern workforce",
+      "link": "https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/",
+      "pubDate": "Wed, 23 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-23T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WNIAEheader.max-600x600.format-webp.webp\">The latest updates from Android Enterprise are designed to help IT teams safeguard corporate data while giving workers room to innovate.",
+      "contentSnippet": "The latest updates from Android Enterprise are designed to help IT teams safeguard corporate data while giving workers room to innovate.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "James Nugent"
+        ],
+        "title": [
+          "Android Enterprise Group Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "6 new Google Flow Tools built by industry creatives",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp\">Explore 6 new tools in Google Flow built by creatives, for creatives.",
+      "contentSnippet": "Explore 6 new tools in Google Flow built by creatives, for creatives.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Arathi Sethumadhavan"
+        ],
+        "title": [
+          "Director of User Experience Research, Technology & Society"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A new wave of Connected Apps is rolling out to Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp\">Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list.",
+      "contentSnippet": "Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mai Lowe"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "MedGemma is helping global healthcare providers deliver better care",
+      "link": "https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp\">Healthcare organizations are using Google’s tech to build tools that address unique local healthcare needs.",
+      "contentSnippet": "Healthcare organizations are using Google’s tech to build tools that address unique local healthcare needs.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Richa Tiwari"
+        ],
+        "title": [
+          "Senior Program Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "pubDate": "Wed, 23 Sep 2026 15:15:00 +0000",
+      "isoDate": "2026-09-23T15:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard.max-600x600.format-webp.webp\">Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.",
+      "contentSnippet": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Leland Rechis"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re honoring Latino culture this Hispanic Heritage Month.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/",
+      "pubDate": "Wed, 23 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-23T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/500-x200-363840.gif\">Celebrate Hispanic Heritage Month with Google’s Latin Pop Doodle and curated Google TV collections. See how we honor Latino culture today.",
+      "contentSnippet": "Celebrate Hispanic Heritage Month with Google’s Latin Pop Doodle and curated Google TV collections. See how we honor Latino culture today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Christina Basilio"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Here’s what was announced at Made On YouTube 2026.",
+      "link": "https://blog.google/products-and-platforms/products/youtube/made-on-youtube-updates-2026/",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "isoDate": "2026-09-23T14:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Event_-_Made_On_Logo_Creator_Gr.max-600x600.format-webp.webp\">YouTube introduced updates that make the platform smarter, more personal and easier to navigate.",
+      "contentSnippet": "YouTube introduced updates that make the platform smarter, more personal and easier to navigate.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
+      "link": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
+      "pubDate": "Wed, 23 Sep 2026 08:30:00 +0000",
+      "isoDate": "2026-09-23T08:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMax_morelanguages_social.max-600x600.format-webp.webp\">We’re making it easier to create great AI Max campaigns by adding a new reporting feature and bringing AI Brief to more languages.",
+      "contentSnippet": "We’re making it easier to create great AI Max campaigns by adding a new reporting feature and bringing AI Brief to more languages.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/",
+      "pubDate": "Tue, 22 Sep 2026 23:50:00 +0000",
+      "isoDate": "2026-09-22T23:50:00.000Z",
+      "content": "Smallholder farmers produce nearly 35% of the world’s food across more than 500 million farms, yet they often lack access to the satellite data, financial services, and …",
+      "contentSnippet": "Smallholder farmers produce nearly 35% of the world’s food across more than 500 million farms, yet they often lack access to the satellite data, financial services, and …",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Investing in global talent and AI literacy",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/",
+      "pubDate": "Tue, 22 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-22T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero.max-600x600.format-webp_kjXizmz.webp\">Google is providing 100,000 scholarships to the International Telecommunication Union (ITU) through the AI Skills Coalition.",
+      "contentSnippet": "Google is providing 100,000 scholarships to the International Telecommunication Union (ITU) through the AI Skills Coalition.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lisa Gevelber"
+        ],
+        "title": [
+          "Founder, Grow with Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T22:52:24.651Z"
+}
