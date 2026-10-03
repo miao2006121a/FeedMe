@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+  "title": "Anthropic Research",
+  "description": "Latest research from Anthropic",
+  "link": "https://www.anthropic.com/research",
+  "items": [
+    {
+      "title": "Oct 1, 2026ScienceClaude-shaped science",
+      "link": "https://www.anthropic.com/research/claude-shaped-science",
+      "pubDate": "Thu, 01 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-01T00:00:00.000Z",
+      "content": "Oct 1, 2026ScienceClaude-shaped science",
+      "contentSnippet": "Oct 1, 2026ScienceClaude-shaped science",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 30, 2026EconomicsWhat work can robots do?",
+      "link": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "pubDate": "Wed, 30 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-30T00:00:00.000Z",
+      "content": "Sep 30, 2026EconomicsWhat work can robots do?",
+      "contentSnippet": "Sep 30, 2026EconomicsWhat work can robots do?",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+      "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-29T00:00:00.000Z",
+      "content": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+      "contentSnippet": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 29, 2026Societal ImpactsWhat do you want from AI?",
+      "link": "https://www.anthropic.com/research/your-thoughts-on-ai",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-29T00:00:00.000Z",
+      "content": "Sep 29, 2026Societal ImpactsWhat do you want from AI?",
+      "contentSnippet": "Sep 29, 2026Societal ImpactsWhat do you want from AI?",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+      "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "pubDate": "Fri, 25 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-25T00:00:00.000Z",
+      "content": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+      "contentSnippet": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+      "link": "https://www.anthropic.com/research/project-swap",
+      "pubDate": "Thu, 24 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-24T00:00:00.000Z",
+      "content": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+      "contentSnippet": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling",
+      "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "pubDate": "Thu, 17 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-17T00:00:00.000Z",
+      "content": "Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling",
+      "contentSnippet": "Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "link": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-10T00:00:00.000Z",
+      "content": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "contentSnippet": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "link": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "pubDate": "Wed, 09 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-09T00:00:00.000Z",
+      "content": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "contentSnippet": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "pubDate": "Fri, 04 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-04T00:00:00.000Z",
+      "content": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+      "contentSnippet": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Societal Impacts",
+      "link": "https://www.anthropic.com/research/team/societal-impacts",
+      "pubDate": "Fri, 27 Dec 2024 00:00:00 +0000",
+      "isoDate": "2024-12-27T00:00:00.000Z",
+      "content": "Societal Impacts",
+      "contentSnippet": "Societal Impacts",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Interpretability",
+      "link": "https://www.anthropic.com/research/team/interpretability",
+      "pubDate": "Sun, 08 Dec 2024 00:00:00 +0000",
+      "isoDate": "2024-12-08T00:00:00.000Z",
+      "content": "Interpretability",
+      "contentSnippet": "Interpretability",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Alignment",
+      "link": "https://www.anthropic.com/research/team/alignment",
+      "pubDate": "Sat, 19 Oct 2024 00:00:00 +0000",
+      "isoDate": "2024-10-19T00:00:00.000Z",
+      "content": "Alignment",
+      "contentSnippet": "Alignment",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Frontier Red Team",
+      "link": "https://www.anthropic.com/research/team/frontier-red-team",
+      "pubDate": "Sun, 14 Jan 2024 00:00:00 +0000",
+      "isoDate": "2024-01-14T00:00:00.000Z",
+      "content": "Frontier Red Team",
+      "contentSnippet": "Frontier Red Team",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Economics",
+      "link": "https://www.anthropic.com/research/team/economics",
+      "pubDate": "Sat, 25 Nov 2023 00:00:00 +0000",
+      "isoDate": "2023-11-25T00:00:00.000Z",
+      "content": "Economics",
+      "contentSnippet": "Economics",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T23:05:26.483Z"
+}

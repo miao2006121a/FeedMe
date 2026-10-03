@@ -1,0 +1,513 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-02T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from September 2026",
+      "contentSnippet": "Here are Google’s latest AI updates from September 2026",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Blog Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Our Project Suncatcher prototype satellite is in orbit.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "pubDate": "Thu, 01 Oct 2026 23:30:00 +0000",
+      "isoDate": "2026-10-01T23:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-fgyv69rc_thumb.jpg\">Google's prototype satellite for Project Suncatcher, built in partnership with Planet, launched into orbit aboard the Transporter-18 rideshare mission with SpaceX.",
+      "contentSnippet": "Google's prototype satellite for Project Suncatcher, built in partnership with Planet, launched into orbit aboard the Transporter-18 rideshare mission with SpaceX.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Travis Beals"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Paradigms of Intelligence"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Turn your existing social assets into high-impact YouTube ads.",
+      "link": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+      "pubDate": "Thu, 01 Oct 2026 20:30:00 +0000",
+      "isoDate": "2026-10-01T20:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E5_thumbnail.max-600x600.format-webp.webp\">In this Ads Decoded episode, we discuss ad creative — and how it can make or break your YouTube campaigns.",
+      "contentSnippet": "In this Ads Decoded episode, we discuss ad creative — and how it can make or break your YouTube campaigns.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Guided Vision in Gemini Live: built for accessibility",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+      "pubDate": "Thu, 01 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-01T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.max-600x600.format-webp.webp\">Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance.",
+      "contentSnippet": "Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Isha Sheth"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Gemini Live"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
+      "pubDate": "Thu, 01 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-01T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-mx6wrk7a_thumb.jpg\">1,400 educators earned 4,000+ digital badges at the Google Badge-a-thon. Watch the on-demand sessions on YouTube and claim your first badge today.",
+      "contentSnippet": "1,400 educators earned 4,000+ digital badges at the Google Badge-a-thon. Watch the on-demand sessions on YouTube and claim your first badge today.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "5 ways Search can help you perfect your at-home coffee routine",
+      "link": "https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/",
+      "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-01T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchCoffee_hero.max-600x600.format-webp.webp\">Learn how Google Search can help you improve your morning cup of coffee.",
+      "contentSnippet": "Learn how Google Search can help you improve your morning cup of coffee.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Megan Stoner"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
+      "pubDate": "Wed, 30 Sep 2026 21:30:00 +0000",
+      "isoDate": "2026-09-30T21:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp\">Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
+      "contentSnippet": "Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zahra Shamsi"
+        ],
+        "title": [
+          "Google Research"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "pubDate": "Wed, 30 Sep 2026 20:00:00 +0000",
+      "isoDate": "2026-09-30T20:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.max-600x600.format-webp.webp\">Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.",
+      "contentSnippet": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Koray Kavukcuoglu"
+        ],
+        "title": [
+          "SVP, Google DeepMind and Chief AI Architect, Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google is supporting water resilience in Chile.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
+      "pubDate": "Wed, 30 Sep 2026 18:34:00 +0000",
+      "isoDate": "2026-09-30T18:34:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WaterChile_socialshare.max-600x600.format-webp.webp\">Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually. See how we boost watershed health.",
+      "contentSnippet": "Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually. See how we boost watershed health.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ben Townsend"
+        ],
+        "title": [
+          "Head of Infrastructure & Sustainability"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "More partners are joining the Alliance for America’s Skilled Trades.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-americas-skilled-trades-expands/",
+      "pubDate": "Wed, 30 Sep 2026 18:15:00 +0000",
+      "isoDate": "2026-09-30T18:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_social.max-600x600.format-webp.webp\">The Alliance for America’s Skilled Trades is expanding, welcoming 14 new partners to accelerate training and career access nationwide.For every 100 skilled trades worker…",
+      "contentSnippet": "The Alliance for America’s Skilled Trades is expanding, welcoming 14 new partners to accelerate training and career access nationwide.For every 100 skilled trades worker…",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Supporting AI readiness in higher education",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/",
+      "pubDate": "Wed, 30 Sep 2026 16:43:00 +0000",
+      "isoDate": "2026-09-30T16:43:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ORG-44_Blog_Header_EDUCAUSE.max-600x600.format-webp.webp\">At the EDUCAUSE annual conference, Google.org announced its support of three higher education initiatives to scale ethical AI readiness, modernize institutional planning…",
+      "contentSnippet": "At the EDUCAUSE annual conference, Google.org announced its support of three higher education initiatives to scale ethical AI readiness, modernize institutional planning…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Let skills in Gemini tackle your most repetitive tasks",
+      "link": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+      "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-30T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skills_thumbnail.max-600x600.format-webp.webp\">Now you can automate your most repetitive tasks more easily with reusable custom instructions through skills, which will be replacing gems.",
+      "contentSnippet": "Now you can automate your most repetitive tasks more easily with reusable custom instructions through skills, which will be replacing gems.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Deven Tokuno"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate",
+      "link": "https://blog.google/products-and-platforms/products/translate/international-translation-day-2026/",
+      "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-30T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/International_Translate_Day_Blo.max-600x600.format-webp.webp\">On International Translation Day, learn how members of our team bring cultural nuance to Translate to connect people globally.",
+      "contentSnippet": "On International Translation Day, learn how members of our team bring cultural nuance to Translate to connect people globally.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Waze rolls out new features to support Breast Cancer Awareness Month.",
+      "link": "https://blog.google/waze/breast-cancer-awareness-month/",
+      "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-30T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BreastCancerCampaign_KeyVisual.max-600x600.format-webp.webp\">This October, Waze will help drivers find screening clinics, assess their health risks, and schedule routine checkups.",
+      "contentSnippet": "This October, Waze will help drivers find screening clinics, assess their health risks, and schedule routine checkups.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/",
+      "pubDate": "Wed, 30 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-30T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BioSynthID_socialshare.max-600x600.format-webp.webp\">Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+      "contentSnippet": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Game on: Henry Cavill is putting Googlebook to the test",
+      "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/",
+      "pubDate": "Tue, 29 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-29T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cavill.max-600x600.format-webp.webp\">Henry Cavill is partnering with Googlebook to build a video game, coming this November.",
+      "contentSnippet": "Henry Cavill is partnering with Googlebook to build a video game, coming this November.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Menaka Shroff"
+        ],
+        "title": [
+          "Vice President Marketing, Google – Global Android Ecosystem"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Experience two artists’ perspectives on philosophy, science, and AI",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/",
+      "pubDate": "Tue, 29 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LAS_x_Google_Arts__Culture_Titl.max-600x600.format-webp.webp\">Artists Xin Liu and Eunjo Lee used Google AI to create new artworks with LAS Art Foundation and Google Arts & Culture Lab.",
+      "contentSnippet": "Artists Xin Liu and Eunjo Lee used Google AI to create new artworks with LAS Art Foundation and Google Arts & Culture Lab.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Freya Salway"
+        ],
+        "title": [
+          "Head of the Lab, Google Arts & Culture"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google is a technology partner for the launch of America.gov.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/",
+      "pubDate": "Tue, 29 Sep 2026 14:15:00 +0000",
+      "isoDate": "2026-09-29T14:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G_gray_hero.max-600x600.format-webp_n4n8cbz.webp\">Google partners with America.gov to use Gemini to help 100 million people access federal services faster. See how we are modernizing public access.",
+      "contentSnippet": "Google partners with America.gov to use Gemini to help 100 million people access federal services faster. See how we are modernizing public access.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jim Kelly"
+        ],
+        "title": [
+          "Vice President of Federal"
+        ],
+        "department": [
+          "Google Public Sector"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "pubDate": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "isoDate": "2026-09-28T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\">Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "contentSnippet": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google Arts & Culture turns 15 — and gives its app a makeover",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
+      "pubDate": "Mon, 28 Sep 2026 16:30:00 +0000",
+      "isoDate": "2026-09-28T16:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_15yrs.max-600x600.format-webp.webp\">Explore art and culture with visual-first conversation search, a redesigned home feed, AI experiments and 27 new city guides in the Google Arts & Culture app.",
+      "contentSnippet": "Explore art and culture with visual-first conversation search, a redesigned home feed, AI experiments and 27 new city guides in the Google Arts & Culture app.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Amit Sood"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Google Arts & Culture"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T23:05:31.307Z"
+}
