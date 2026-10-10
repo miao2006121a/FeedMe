@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Anthropic AI Model Went Rogue, Submitted Fake Tip to Police",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
+      "pubDate": "Sat, 10 Oct 2026 00:08:39 GMT",
+      "isoDate": "2026-10-10T00:08:39.000Z",
+      "content": "Anthropic PBC said its Claude AI model carried out additional unintended actions on the digital systems of outside organizations, including submitting a false tip in a police homicide case, prompting a warning from the Trump administration for artificial intelligence companies to secure their systems.",
+      "contentSnippet": "Anthropic PBC said its Claude AI model carried out additional unintended actions on the digital systems of outside organizations, including submitting a false tip in a police homicide case, prompting a warning from the Trump administration for artificial intelligence companies to secure their systems.",
+      "creator": "Shirin Ghaffary",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Bloomberg This Weekend | Diesel Deal Struck with Putin, Isaias Makes Landfall",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-10/bloomberg-this-weekend-10-10-2026-video",
+      "pubDate": "Sat, 10 Oct 2026 15:55:31 GMT",
+      "isoDate": "2026-10-10T15:55:31.000Z",
+      "content": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York.\nJoined by Nancy Yousef - The Atlantic Staff Writer, Bill Wadell - AccuWeather Reporter, Kevin Roose - Tech Journalist, Author “The AGI Chronicles,” Shannon Kingston - ABC News State Department Reporter, Jesse Cole - Banana Ball Championship League Owner, Amanda Agati - PNC Asset MGMT Group Chief Investment Officer, Dr. Peter Hotez - Baylor College of Medicine School of Tropical Medicine Dean, Joanne Hsu - UMich Institute for Social Research Consumer Survey Director, and Francis Pierre Laborde - Fashion Designer. (Source: Bloomberg)",
+      "contentSnippet": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York.\nJoined by Nancy Yousef - The Atlantic Staff Writer, Bill Wadell - AccuWeather Reporter, Kevin Roose - Tech Journalist, Author “The AGI Chronicles,” Shannon Kingston - ABC News State Department Reporter, Jesse Cole - Banana Ball Championship League Owner, Amanda Agati - PNC Asset MGMT Group Chief Investment Officer, Dr. Peter Hotez - Baylor College of Medicine School of Tropical Medicine Dean, Joanne Hsu - UMich Institute for Social Research Consumer Survey Director, and Francis Pierre Laborde - Fashion Designer. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-10/trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue",
+      "pubDate": "Sat, 10 Oct 2026 14:19:14 GMT",
+      "isoDate": "2026-10-10T14:19:14.000Z",
+      "content": "The Trump administration’s embrace of legal liability to enforce artificial intelligence safety sets the stage for future conflicts over who foots the bill when AI models go rogue: the companies that design the systems or the people that deploy the technology.",
+      "contentSnippet": "The Trump administration’s embrace of legal liability to enforce artificial intelligence safety sets the stage for future conflicts over who foots the bill when AI models go rogue: the companies that design the systems or the people that deploy the technology.",
+      "creator": "Maggie Eastland",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Race for AI Supremacy Raises Safety Concerns",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
+      "pubDate": "Sat, 10 Oct 2026 13:41:50 GMT",
+      "isoDate": "2026-10-10T13:41:50.000Z",
+      "content": "Technology Journalist and Author Kevin Roose tells Bloomberg This Weekend that a relatively small group of researchers and executives at OpenAI, Anthropic and Google DeepMind has driven the race toward artificial general intelligence, raising questions about who controls the technology and its potential risks. Speaking with hosts David Gura and Christina Ruffini, Roose discusses his new book, The AGI Chronicles, and the challenges of regulating increasingly capable AI systems as developers pursue technology that could surpass human intelligence. (Source: Bloomberg)",
+      "contentSnippet": "Technology Journalist and Author Kevin Roose tells Bloomberg This Weekend that a relatively small group of researchers and executives at OpenAI, Anthropic and Google DeepMind has driven the race toward artificial general intelligence, raising questions about who controls the technology and its potential risks. Speaking with hosts David Gura and Christina Ruffini, Roose discusses his new book, The AGI Chronicles, and the challenges of regulating increasingly capable AI systems as developers pursue technology that could surpass human intelligence. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Turkey Bans Social Media Accounts for Children Under 15",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-10/turkey-bans-social-media-accounts-for-children-under-15",
+      "pubDate": "Sat, 10 Oct 2026 08:24:17 GMT",
+      "isoDate": "2026-10-10T08:24:17.000Z",
+      "content": "Turkey has barred social media platforms from providing services to children under the age of 15, according to a regulation published in the Official Gazette.",
+      "contentSnippet": "Turkey has barred social media platforms from providing services to children under the age of 15, according to a regulation published in the Official Gazette.",
+      "creator": "Inci Ozbek",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers",
+      "pubDate": "Fri, 09 Oct 2026 21:11:31 GMT",
+      "isoDate": "2026-10-09T21:11:31.000Z",
+      "content": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
+      "contentSnippet": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
+      "creator": "Bob Van Voris",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Cirrus Logic Is Said to Have Bid for Synaptics After Onsemi Deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/cirrus-logic-is-said-to-have-bid-for-synaptics-after-onsemi-deal",
+      "pubDate": "Fri, 09 Oct 2026 23:25:37 GMT",
+      "isoDate": "2026-10-09T23:25:37.000Z",
+      "content": "Semiconductor company Cirrus Logic Inc. made an unsolicited acquisition offer for Synaptics Inc. last month as it looked to spoil a previously announced deal with On Semiconductor Corp., according to people familiar with the matter.",
+      "contentSnippet": "Semiconductor company Cirrus Logic Inc. made an unsolicited acquisition offer for Synaptics Inc. last month as it looked to spoil a previously announced deal with On Semiconductor Corp., according to people familiar with the matter.",
+      "creator": "Liana Baker and Yiqin Shen",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Logitech CEO Hanneke Faber on AI Agents & The Great Tech Divide",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-09/logitech-ceo-on-ai-agents-the-great-tech-divide-video",
+      "pubDate": "Fri, 09 Oct 2026 23:10:25 GMT",
+      "isoDate": "2026-10-09T23:10:25.000Z",
+      "content": "Logitech CEO Hanneke Faber joins Bloomberg Businessweek Daily to discuss the findings of the company's CTRL Tomorrow study on how tech impacts its users, finding opportunity in the AI era, and why design-led hardware still has a major role to play. Faber speaks with Bloomberg's Carol Massar and Jess Menton. (Source: Bloomberg)",
+      "contentSnippet": "Logitech CEO Hanneke Faber joins Bloomberg Businessweek Daily to discuss the findings of the company's CTRL Tomorrow study on how tech impacts its users, finding opportunity in the AI era, and why design-led hardware still has a major role to play. Faber speaks with Bloomberg's Carol Massar and Jess Menton. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value",
+      "pubDate": "Fri, 09 Oct 2026 13:00:09 GMT",
+      "isoDate": "2026-10-09T13:00:09.000Z",
+      "content": "TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it launched only a few weeks ago, has raised about $870 million at a $7.5 billion valuation in a financing led by Andreessen Horowitz.",
+      "contentSnippet": "TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it launched only a few weeks ago, has raised about $870 million at a $7.5 billion valuation in a financing led by Andreessen Horowitz.",
+      "creator": "Natasha Mascarenhas and Rebecca Torrence",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ramp Hits $60 Billion Valuation in $1.85 Billion Funding Round",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/ramp-hits-60-billion-valuation-in-1-85-billion-funding-round",
+      "pubDate": "Fri, 09 Oct 2026 20:36:10 GMT",
+      "isoDate": "2026-10-09T20:36:10.000Z",
+      "content": "Fintech startup Ramp has reached a roughly $60 billion valuation with its latest fundraising effort, according to people familiar with the matter.",
+      "contentSnippet": "Fintech startup Ramp has reached a roughly $60 billion valuation with its latest fundraising effort, according to people familiar with the matter.",
+      "creator": "Rebecca Torrence",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Surveillance Pricing May Be Coming to a Store Near You",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-09/surveillance-pricing-may-be-coming-to-a-store-near-you",
+      "pubDate": "Fri, 09 Oct 2026 20:26:14 GMT",
+      "isoDate": "2026-10-09T20:26:14.000Z",
+      "content": "What if the electronic shelf label you see at the grocery store isn't just showing you the price of the jar of mayonnaise you're about to buy — but actually raising the price because you put a can of tuna in your cart.\n\nIt's called surveillance pricing and retailers like Walmart appear to be locking down technology that will help them figure out how much they can charge you. Bloomberg's Brad Stone joins Stacey Vanek Smith and Max Chafkin on the Everybody's Business podcast to unpack this pricing strategy (which Walmart has denied using).  (Source: Bloomberg)",
+      "contentSnippet": "What if the electronic shelf label you see at the grocery store isn't just showing you the price of the jar of mayonnaise you're about to buy — but actually raising the price because you put a can of tuna in your cart.\n\nIt's called surveillance pricing and retailers like Walmart appear to be locking down technology that will help them figure out how much they can charge you. Bloomberg's Brad Stone joins Stacey Vanek Smith and Max Chafkin on the Everybody's Business podcast to unpack this pricing strategy (which Walmart has denied using).  (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Lockheed Unveils New Patriot For US Army Air Defense Contest",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/lockheed-unveils-new-patriot-for-us-army-air-defense-contest",
+      "pubDate": "Fri, 09 Oct 2026 19:36:04 GMT",
+      "isoDate": "2026-10-09T19:36:04.000Z",
+      "content": "Lockheed Martin Corp. unveiled a new missile interceptor designed to outperform its most capable Patriot variant, as the US Army seeks to expand its air defense capabilities against increasingly sophisticated threats like hypersonic missiles.",
+      "contentSnippet": "Lockheed Martin Corp. unveiled a new missile interceptor designed to outperform its most capable Patriot variant, as the US Army seeks to expand its air defense capabilities against increasingly sophisticated threats like hypersonic missiles.",
+      "creator": "Jen Judson",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI's $70B Run Rate Meets AI's Infrastructure Challenge",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-09/bloomberg-tech-10-9-2026-video",
+      "pubDate": "Fri, 09 Oct 2026 18:54:58 GMT",
+      "isoDate": "2026-10-09T18:54:58.000Z",
+      "content": "loomberg’s Ed Ludlow breaks down OpenAI's latest annualized revenue, expected to reach or exceed $70 billion by the end of the year. Plus, Oracle keeps several data centers on track by relying on truck deliveries of natural gas, and a conversation with Kleiner Perkins partner Ilya Fushman on the mega AI IPO pipeline and the future of physical AI. (Source: Bloomberg)",
+      "contentSnippet": "loomberg’s Ed Ludlow breaks down OpenAI's latest annualized revenue, expected to reach or exceed $70 billion by the end of the year. Plus, Oracle keeps several data centers on track by relying on truck deliveries of natural gas, and a conversation with Kleiner Perkins partner Ilya Fushman on the mega AI IPO pipeline and the future of physical AI. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T18:36:10.920Z"
+}

@@ -1,0 +1,545 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+      "link": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
+      "pubDate": "Thu, 08 Oct 2026 22:30:00 +0000",
+      "isoDate": "2026-10-08T22:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physic.max-600x600.format-webp.webp\">A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.",
+      "contentSnippet": "A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mike Schaekermann"
+        ],
+        "title": [
+          "Research Lead"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/",
+      "pubDate": "Thu, 08 Oct 2026 15:30:00 +0000",
+      "isoDate": "2026-10-08T15:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/play_days_live_hero.max-600x600.format-webp.webp\">Celebrate Play Fest starting October 13 with sweepstakes prizes, global gaming leagues, and major Google Play deals all week.",
+      "contentSnippet": "Celebrate Play Fest starting October 13 with sweepstakes prizes, global gaming leagues, and major Google Play deals all week.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Paul Feng"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Google Play Engineering, Product, UX"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sign in quickly and securely with passkeys.",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/",
+      "pubDate": "Thu, 08 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-08T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SigninFasterPasskey_social.max-600x600.format-webp.webp\">Learn how to set up a passkey for your Google Account.",
+      "contentSnippet": "Learn how to set up a passkey for your Google Account.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google Cloud introduces the Gemini agent.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+      "pubDate": "Thu, 08 Oct 2026 12:05:00 +0000",
+      "isoDate": "2026-10-08T12:05:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-600x600.format-webp.webp\">Google Cloud’s new Gemini agent automates workflows by connecting to your business systems. See how it streamlines enterprise tasks in one prompt.",
+      "contentSnippet": "Google Cloud’s new Gemini agent automates workflows by connecting to your business systems. See how it streamlines enterprise tasks in one prompt.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
+      "link": "https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/",
+      "pubDate": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-08T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Google_Maps_Tools_social.max-600x600.format-webp.webp\">Use these built-in Google Maps features to navigate your food journey all year long.",
+      "contentSnippet": "Use these built-in Google Maps features to navigate your food journey all year long.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
+      "link": "https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/",
+      "pubDate": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-08T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp\">We analyzed a year of Google Maps data to uncover the top food trends and popular restaurants across 10 culinary hot spots.",
+      "contentSnippet": "We analyzed a year of Google Maps data to uncover the top food trends and popular restaurants across 10 culinary hot spots.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Andrew Duchi"
+        ],
+        "title": [
+          "Director of Product"
+        ],
+        "department": [
+          "Google Maps"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+      "pubDate": "Thu, 08 Oct 2026 00:01:00 +0000",
+      "isoDate": "2026-10-08T00:01:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GEO_navigation_in_car.max-600x600.format-webp.webp\">Find the cheapest petrol and diesel prices in the UK using Google Maps and Waze. Search for fuel stations near you to save money. See the latest rates.",
+      "contentSnippet": "Find the cheapest petrol and diesel prices in the UK using Google Maps and Waze. Search for fuel stations near you to save money. See the latest rates.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sarah-Jayne Williams"
+        ],
+        "title": [
+          "Global Product Partnerships Director at Google Maps & Waze"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We're making it easier to identify AI-generated content globally.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "pubDate": "Wed, 07 Oct 2026 14:00:00 +0000",
+      "isoDate": "2026-10-07T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-600x600.format-webp.webp\">We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.",
+      "contentSnippet": "We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Pushmeet Kohli"
+        ],
+        "title": [
+          "VP, Science and Strategic Initiatives"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "pubDate": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-07T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp\">Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "contentSnippet": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maryam Karimzadehgan"
+        ],
+        "title": [
+          "Software Engineer"
+        ],
+        "department": [
+          "AI Innovation + Research"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
+      "pubDate": "Tue, 06 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-06T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_MatHealth_Thumb_D.max-600x600.format-webp.webp\">By pairing AI with “blind sweep” ultrasounds, Google researchers found a way to get more people the prenatal ultrasounds they need.",
+      "contentSnippet": "By pairing AI with “blind sweep” ultrasounds, Google researchers found a way to get more people the prenatal ultrasounds they need.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lindsey Lanquist"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+      "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-06T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp\">Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
+      "contentSnippet": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-06T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp\">Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
+      "contentSnippet": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sahil Dua"
+        ],
+        "title": [
+          "Research Engineer"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Making global public health more proactive with Google Earth AI",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
+      "pubDate": "Tue, 06 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-06T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Earth_AI__Global_Health_.max-600x600.format-webp.webp\">Google is helping health leaders overcome reporting lags, forecast disease outbreaks, and deliver care to vulnerable communities.",
+      "contentSnippet": "Google is helping health leaders overcome reporting lags, forecast disease outbreaks, and deliver care to vulnerable communities.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shravya Shetty"
+        ],
+        "title": [
+          "Distinguished Software Engineer"
+        ],
+        "department": [
+          "Google Research"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/",
+      "pubDate": "Tue, 06 Oct 2026 14:00:00 +0000",
+      "isoDate": "2026-10-06T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StartUps_Hero.max-600x600.format-webp.webp\">Discover the pioneering global startups joining us in Mountain View this November to shape the future of AI.",
+      "contentSnippet": "Discover the pioneering global startups joining us in Mountain View this November to shape the future of AI.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Darren Mowry"
+        ],
+        "title": [
+          "VP, Global Startups"
+        ],
+        "department": [
+          "Google Cloud"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Meet the artist who built a giant spider for a virtual world",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/",
+      "pubDate": "Tue, 06 Oct 2026 13:30:00 +0000",
+      "isoDate": "2026-10-06T13:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp\">Theo Triantafyllidis won the 2026 Frieze Artist Award, which is supported by Google Arts & Culture.",
+      "contentSnippet": "Theo Triantafyllidis won the 2026 Frieze Artist Award, which is supported by Google Arts & Culture.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Eva Langret"
+        ],
+        "title": [
+          "Director of EMEA"
+        ],
+        "department": [
+          "Frieze"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Why we're backing America's existing nuclear plants",
+      "link": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/",
+      "pubDate": "Tue, 06 Oct 2026 10:00:00 +0000",
+      "isoDate": "2026-10-06T10:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GOOGLE_BRAIDWOOD_THUMBNAIL_001.max-600x600.format-webp.webp\">Our new agreement with Constellation Energy brings the total new nuclear capacity we’ve enabled for the U.S. energy system from uprates and restarts to over 1.5 GW.",
+      "contentSnippet": "Our new agreement with Constellation Energy brings the total new nuclear capacity we’ve enabled for the U.S. energy system from uprates and restarts to over 1.5 GW.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Amanda Peterson Corio"
+        ],
+        "title": [
+          "Global Head of Data Center Energy"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I use technology to give students a voice and become critical digital citizens.",
+      "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rebecca_social.max-600x600.format-webp.webp\">Empower students using Google Sites, Gemini, and Vids to build critical thinking skills. See how these tools help kids find their voice today.",
+      "contentSnippet": "Empower students using Google Sites, Gemini, and Vids to build critical thinking skills. See how these tools help kids find their voice today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Rebecca Braun"
+        ],
+        "title": [
+          "Year 7-9 Teacher, Digital Innovator, Democracy Developer and Central Education Developer –  Innovitaskolan, Helsingborg, Sweden"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp\">Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
+      "contentSnippet": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tori Engel"
+        ],
+        "title": [
+          "Middle School Computer Science and Technology  – Carriel Junior High, O’Fallon, IL, U.S."
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Technology helps my students balance big creative ideas with tight deadlines.",
+      "link": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/7472.max-600x600.format-webp.webp\">Students use Google Drive for video assets and Sheets for production timelines to meet tight deadlines. See how these tools boost classroom output.",
+      "contentSnippet": "Students use Google Drive for video assets and Sheets for production timelines to meet tight deadlines. See how these tools boost classroom output.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michelle Bruno"
+        ],
+        "title": [
+          "10-12th grade Video Media Production, Media Print, and Business Writing – William Allen High School, PA, U.S."
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Here’s how I use technology to bring science to life in my classroom.",
+      "link": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/",
+      "pubDate": "Mon, 05 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-05T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chanel.max-600x600.format-webp.webp\">See how this teacher uses Gemini and Gemini Notebook to build digital literacy and refine lesson plans. Read the full story to improve your teaching.",
+      "contentSnippet": "See how this teacher uses Gemini and Gemini Notebook to build digital literacy and refine lesson plans. Read the full story to improve your teaching.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Chanel Johnson"
+        ],
+        "title": [
+          "Gifted 8th Grade Physical Science Teacher – Cedar Grove Middle School, Decatur, Georgia, U.S."
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T18:36:18.280Z"
+}
